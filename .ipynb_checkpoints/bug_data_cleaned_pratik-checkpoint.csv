@@ -1,0 +1,2006 @@
+id,description,severity
+458730,gcc warning: jarver.c:: warning: the address of ‘x_name’ will always evaluate as ‘true’,normal
+486036,"[patch] make install fails for darwin/x, but it should only die for osx/cocoa",normal
+242283,installer does not close mozilla gracefully; talkback pops up,minor
+97960,"first time, the netscape feedback app started - subsequently, the entire mozilla application closes without warning (does not crash, just terminates).",normal
+300321,[bfcache] links stay highlighted,major
+730407,"omtc: basiclayers draws into a target, it should only validate the layers for forwarding",normal
+197144,capital characters with special extras (word?) doesn't fit into one line forms ,normal
+542871,junk-button does not move an e-mail to the junk folder if the junk filter is deactivated,normal
+670572,"signed add-on can't always link to its resources via chrome url, causes a security error instead",normal
+416887,session no longer gets restored,critical
+557162,"clicking on thunderbird when ""processing"" locks it up",normal
+510207,tracemonkey: testbug runs out of memory on arm.,normal
+465268,tm: inline int to id fast path into the builtins,normal
+27739,assertions at random times during debugging.,normal
+641664,html required error message does not zoom,normal
+218058,testing..ignore it,normal
+689189,installed firefox  recently. site hangs and is slow.  cannot uninstall to reinstall another version. help!,normal
+780705,jstests: make warning clearer if -g and --jitflags are set at the same time,normal
+165138,crash when clic on reload several times with shift key pressed,normal
+492061,bookmark folders randomly rename themselves,normal
+539547,"anchor links should scroll, not jump",normal
+9680,sched: toolbox d&d: save expand/collapse state on toolboxes,normal
+657000,don't fire events for synchronous xhr,normal
+503356,old page remains until slow loading new page is complete,normal
+426168,composer window without border / background,normal
+598281,ultra bold fonts being selected,normal
+661623,two kinds of missing msaa focus events in iframe,normal
+52055,left arrow key in any tree with one selected item unselects the item,minor
+647724,firefox  error,normal
+535016,need analysis to ensure that actors are retained before being used as arguments,normal
+382019,uri escaping for web-based protocol handlers does not match spec,normal
+378339,nsframeiterator doesn't initialize moffedge,normal
+44155,proxy authentication never prompts for password,normal
+44198,mousewheel scrolling crashes browser,major
+402708,configure should include list of options if --enable-application is not specified,normal
+594950,search box hidden behind how-to video,normal
+273449,"when dragging and dropping a dynamically created image (php script), filename is wrong.",normal
+389242,kill old gfx and obslete code in nswindow,normal
+770449,gap rendered above element when margin-bottom applied to parent of floated elements,normal
+99958,"ftp://ftp.nai.com gives me ""can't open data connection""",major
+625037,blank video player appears when firefox is minimized and maximized again,normal
+630512,drag and drop creation of eml files doesn't work,normal
+617525,event deliver semantics differ between in-process and out-of-process message manager (just for mozafterpaint?),normal
+258835,location bar shows nothing in specific situation,normal
+578753,x_/i universal build broken,normal
+55845,wraps incorrectly around photos,normal
+515799,reading freed memory in nsviewmanager::viewtowidget,normal
+84427,browser doesn't search legacy paths for x plugins on unix,normal
+163299,can't change cc accessible checkbox,blocker
+347103,deleted bookmarks still have placeholders,minor
+35351,macromedia shockwave plugin does not work for any sw content,major
+370172,links on home page of online banking do not work,major
+227617,after thunderbird stays open for a long while it stops checking for email,normal
+348239,javascript doesn't work properly on bit compiled versions seamonkey/firefox,normal
+68137,simple xul iframe example hangs mozilla on startup (complex site),normal
+70293,garbage seen when deleting list items with del key,normal
+248802,single pixel space intermittently appears between elements.,normal
+145976,extra margin clamping thesold in some cases could be too small,normal
+680728,not resillient to hangs,normal
+292615,move rdf vocabulary from devmo to www.mozilla.org,normal
+170182,audio/x-pn-realaudio-plugin  and windows media file no live-streams,normal
+24952,long table rows (ie. height) don't cross page breaks,normal
+273835,name=value pairs are submitted in wrong order when table containing form fields is dynamically rearranged,normal
+1815,this page does not render correctly,minor
+241473,gopher pages containing email addreses render badly,normal
+432578,history expiration should remove orphaned bookmarks,normal
+19378,up/down arrows don't scroll document if selection,normal
+777154,./checksetup reports missing email::mime when in fact email::address is missing,normal
+415700,"search engine aliases can ""take over"" the location bar",normal
+592665,button disabled when reloading,normal
+348732,getgrepathwithproperties() fails if temp path has spaces,normal
+453287,printing to hp postscript produces gibberish,normal
+418982,js_initfunctionandobjectclasses recursion causes assert and dies.,normal
+81000,no gb item on charset menu,normal
+563359,default search engines re-appear after upgrading firefox on ubuntu,minor
+543204,iframe.find() focuses iframe in firefox .,major
+555915,visibility issues when building xpcshell with readline support,normal
+333086,strange handling of the mail default application,normal
+770896,fresh installs of win release preview are missing key runtime files,normal
+580317,qt desktop build  not compilable on non-egl environment,normal
+455428,file:// urls on mac don't work half the time,normal
+187268,"list markers is ,,... when overflow property of ol element is not ""visible""",normal
+7556,[xul] <html:label> doesn't work with <html:textarea>,normal
+778700,"""drag"" event not fired",normal
+788026,flickering in ro.me demo rendering - black frames rendered / presented?,normal
+66564,back doesn't work in frames after a while,normal
+601966,firefox does not display when using remote desktop on windows server  r with terminal services,critical
+27802,"using a complex proxy .pac file fails silently, no crash",normal
+531544,"keyboard zoom keys inoperable for firefox, but work ok for ie, safari, and chrome.",normal
+336773,ecma_/executioncontexts/..-.js result: failed type: browser,normal
+80752,mac: cannot past data into any textfield ,major
+78518,helpmenuoverlay.xul is not localized,normal
+101993,selectedindex lost in select box when javascript adds option,normal
+784259,nsdommutationobserver should inherit nswrappercache,normal
+646404,entire browser hangs when using gmail,critical
+431233,"log spam: ""header value = <foo>""",normal
+145601,explication for icons doesn't display normally.,normal
+800816,panels consumes/blocks mouse behaviour,normal
+419036,simplify nscacheentryhashtable::visitentries and break 'friendship',normal
+205635,setting start boundary point of range after end boundary point causes an error while it should collapse the range,normal
+648506,js_decompilescript duplicates function declarations,normal
+51383,mozilla crashes when it detects a doctype that it doesn't recognize,critical
+489080,hyperlinks in email messages not launching browser,normal
+379339,nsstringapi.h: stringbegins/endswith inconsistent with nsreadableutils.cpp,minor
+258429,crash at startup on mips,critical
+749822,ionmonkey: optimistic argc passed to uncompiled functions.,normal
+356584,when folders are compacted unread and total message counters are set to ,normal
+101538,horizontal lines in jpeg when scrolled,normal
+321464,"when filtering sent messages, 'recipient' should be displayed, not 'sender' or 'subject or sender'",normal
+468456,second scriptable <object/> of a document is not scriptable.,normal
+45259,css-p element fails,major
+493294,domino web access warning,normal
+238728,return key at certificate viewer window stops all processing,normal
+47266,after removing cache dir browser non-functional.,normal
+51938,getting the frame for a window coordinate is inefficient,normal
+71885,preference page to customize bug email,normal
+390901,cjk - font-name is not recognised correctly in preferences.,normal
+635490,text using hardware acceleration looks inferior and considerably different to acceleration being disabled and other browsers,major
+2551,parsing list in table,normal
+727729,firefox performance issues with many (nested) tables,normal
+423643,reproducible crash in w/ firebug installed,critical
+181781,"code  getcomputedstyle(myplot, '').getpropertyvalue(""top""); does not calculate right value for a relative positioned div-tag",normal
+477788,can't arrange arrange in folder pane,normal
+666604,allow untrusted events to trigger a link,normal
+240100,"browser sometimes hangs on keyboard ""tab backwards"" command",normal
+424487,the loading of other pages effects rendering of another page,normal
+494106,fix ice in treehydra checks,normal
+462910,c/c+ callers can't 'uneval',normal
+416375,"after running ccleaner, a firefox/google search defaults to google france -- happens on  difference computers with  non-networked users.",normal
+498540,audio and video tags do not fallback to fallback content when codec is not supported,major
+791910,dying message managers don't get correctly unregistered,normal
+136908,crl viewer-all columns show organization (o),normal
+170950,ime should use os system color for selection instead of inverting,normal
+72810,count() function is unable to handle certain path expressions,normal
+292893,toolkit/themes/makefile.in uses qute for all-but-phoenix,normal
+189623,chosing product on bugzilla query.cgi makes all components disappear,blocker
+418069,js_/regress/regress-.js fail - browser - bad this,normal
+176244,fix column resize and reorder issues when direction is rtl,normal
+391979,"-moz-column-width in ""ch"" units triggers ""assertion: column-count and column-width can't both be auto""",normal
+123151,headers / footers ,normal
+302604,% cpu usage,minor
+150552,border around rectangle drawn the wrong way,minor
+485252,renderdocument background color filling need to be optimized.,normal
+64833,tracking bug for some of the embedding bugs,normal
+223352,spurious wakups on nsiothreadpool::midlethreadcv could hurt performance,minor
+527075,"random failure: ""browser/fuel/test/browser_browser.js | there should be one browser window open - got , expected """,normal
+786662,open containing folder in right click menu disabled after pause,normal
+553832,lorentz branch: test_plugin_mouse_coords.html fails on mac.,normal
+358968,"[cocoa] drag and drop of an image out of the browser onto desktop makes a ""picture clipping"" instead of saving the image",normal
+378349,unread marked newsgroups don't have unread messages,major
+117806,hover makes the page ugly,normal
+361804,"""node was not found"" without .xhtml extension",major
+394336,firefox crashes on any attempt to navigate away from this site,normal
+237572,add negotiateauth to the default list of firefox extensions,normal
+159444,veritcal scroll bars not displayed after image has been repostioned,normal
+560712,nanojit: despecialize printing of immediates in debug output,normal
+292514,print preview and firefox crashes each time.,normal
+551439,autoconfig defaultpref doesn't work for homepage,normal
+717915,implement a global developer toolbar,normal
+629395,"unescaped interpolations in ""title"" calls in global/messages.html.tmpl",normal
+160818,drag of selected text is too aggressive,normal
+406349,xul label and description don't crop based on maxwidth,normal
+548239,"""downloading message headers"" when opening a folder or trying to read a message.",major
+269545,alt text not displayed when image is not displayed,normal
+682604,smtp message drafts not deleted after send,normal
+706078,no page's title is shown if menu bar is hidden,normal
+478858,"ctrl+enter fails to add www. and .com in addresses with ""http-"" in the beggining of the name",normal
+326569,while reading/sending mail occassional bur frequent crashes,major
+566364,bookmarks search does not show the folder hierarchy tree so i don't know where it is!,normal
+24290,slow rendering of deeply nested tables,normal
+281660,.html icon file association not complete when making ff default browser,minor
+736282,new tab screenshots show private information,normal
+520768,sql error when trying to search,major
+659646,"after initial proxy login, ff uses ie proxy address to access flash videos",normal
+351670,"[os x] standard menuitem ""bring all to front"" missing in window menu",normal
+349598,nsurlformatter unnecessarily dump()ing,normal
+622929,firefox .b crashes on windows xp [@ sogoupy.ime@xe ] [@ sogoupy.ime@xde ],critical
+825550,calling addstream on a peer connection object with a stream that already exists in localstreams - should fail gracefully and not throw ns_error_failure,normal
+371625,alt tags not showing,major
+224528,doesn't render the entire page. flash doesn't apperar at the right,normal
+307546,application closes when switching tabs,critical
+692031,domtemplate async loops do not drop the loop element,normal
+299824,freeze on some functions (see details),critical
+636728,brightcove videos hang/do not play.,major
+443807,fire fox keeps crashing,normal
+454473,bookmarks toolbar repopulates after restore from minimize (unnecessary tab bar stretch side effect),normal
+629046,"firefox .b crash report [@ nstarray<tag_script_item, nstarraydefaultallocator>::clear() ]",critical
+326616,"i get a ""print file not accepted (client-error-bad-request!)"" error when printing form firefox and only firefox.",major
+328431,debug build breaking - unresolved symbol ns_debugbreak_p in xpcom/sample and xpcom/tools directory,major
+355845,"marker-{start,mid,end} attributes not inherited",normal
+23966,cannot visit new secure web sites.,normal
+267891,mail account not showing in sent or any other folder except inbox,normal
+56157,nd browse in composer window givse blank window,normal
+261320,on startup live bookmarks steal focus,normal
+230789,sidebar (bookmarks) disappears after doing print preview,normal
+464933,"assertion failure: (uintn)(regs.sp - fp->slots) < script->nslots, at /js/src/jsinterp.cpp:",normal
+816012,some javascript functions do not work properly on namespace-prefixed xhtml,normal
+623778,no link source preview visible when in full screen mode,major
+304698,"thunderbird has problems storing password with non standard chars (eg "",$,%,£)",major
+795009,remote_profile_name should actually be chrome,normal
+67591,menus w/o any submenuitems should be disabled,normal
+368516,cannot load yahoo mail beta,major
+94613,arabic text rendered incorrectly,normal
+685925,cut and paste from github into scratchpad doesn't work right,normal
+447661,"firefox is not loading all of the code for the site, so everything has reverted to a web . look",normal
+142581,quotes and spaces in multipart/form-data attributes are not quoted,normal
+524747,delete wrongly selects a folder instead of an email sometimes,minor
+567320,webgl doesn't work using osmesa,major
+43307,can't bring up table properties on linux,normal
+356644,trojan,normal
+263940,delete nonexistent cookie: prefs dialog ok button doesn't work,normal
+812825,javascript unable to retrieve radio button value,normal
+5055,"if text is selected, scrolling page doesn't stick",normal
+364359,mathml <mtext> truncated,normal
+1874,frames jump up and down during vertical resize,minor
+268800,incomplete uninstall,normal
+687862,text jumps up or down a pixel after scrolling,normal
+299135,ftp often will not return the directory listing ... repeated attempts will eventually work,normal
+319498,error trying to backup an elliptic curve crypto certificate,major
+219839,xpinstall uninstall fails when package registry name contains multiple level of path,normal
+761950,restraining add-on's behavior in private browsing mode,normal
+275706,firefox does not identify itself correctly to ilisten voice rec application (firefox.app vs firefox-bin ?),normal
+680927,startup crash in mozcomp.dll@xab,critical
+246646,fails to load web embedded windows mediaplayer object,normal
+547996,be able to tell when a click was generate by a tap on the screen,normal
+55202,map they show is not one peice like it should be,normal
+337044,[mlk] search engine manager leaks an observer when canceled,normal
+413437,locking homepage buttons to disable them is broken (again),major
+325556,update-packaging doesn't properly reference mar binary,normal
+129788,"[xblfc] default font for <select> is serif, not sans-serif. (classic/wink)",normal
+578172,receivemessage callback targets lack messagemanagers in non-fennec firefox,normal
+226881,multi-selection form boxes autoscroll to the top,major
+399983,"when quickly switching between portrait and landscape, the ""preparing..."" dialog gets stuck",normal
+798856,search from the url bar (with keyword.url/keyword.enabled) fails on proxy,normal
+202438,home page apparently cached separately from other pages,normal
+657190,webgl/conformance/more/functions/texsubimagedhtml.html and teximagedhtml.html (at least) hit the network,normal
+431868,firefox leaks when you enable/disable a plugin in the same session,normal
+397593,bad fctl crc in apng files ignored,normal
+457627,"date format on history organizer shows in us format, not in system",normal
+631117,jsk demo no longer working,normal
+614474, error test-unexpected-fail | /tests/dom/indexeddb/test/test_bfcache.html | test timed out.,normal
+348523,tab focus crashes firefox,critical
+429219,"ctrl+, ctrl+, etc, regression, after bug ",normal
+636350,left/right touchpad scrolling or mouse wheel scrolling broken (over tab bar); echoes up/down scrolling now,normal
+38616,can not move caret with arrow keys after switch bullets,normal
+115397,foreground tab too hard to distinguish from background ones,normal
+222193,"links with variables named similar to html entities translated into entities, causing link to be invalid when clicked",normal
+786043,social api conformance testing,normal
+306059,bookmarks context menu (right click) options inoperative,major
+653250,cannot scroll (auto-page) on tumblr in last couple days,normal
+515812,double hashing template,normal
+56676,"memory leak via <input type=""file"">",major
+4516,m release note tracking bug,normal
+684660,extreme cpu use in cycle collector in large profile,normal
+332807,document.open() in a xbl constructor,normal
+343550,alt+arrow does not work when inline search button is hidden,normal
+731406,contacts api: incremental search,normal
+184256,canedit group_control_map entry does not prevent making attachments,major
+285049,textbox and textarea ignore ctrl+letter and alt+letter key combinations,normal
+226365,autocomplete doesn't disappear after .,normal
+319163,vertical writing does not work in svg,normal
+691344,stream->end is incorrect for streams of compressed data,normal
+217730,no preferences in edit menu,normal
+515313,nanojit: finish killing reservations,normal
+622961,fix webgl getparam/getuniform test,normal
+352360,negative zero decompiles as zero,normal
+155086,error in nsapi plugin,normal
+167472,os x; preferences won't hold,major
+66113,end of scrollbar sometimes renders wrong,normal
+809751,html table related elements of presentational table having global aria attributes must be accessible,normal
+397924,bug  broke tab sidebar,normal
+305824,remove the obscuring of the autoconfig file.,normal
+720627,simply httpbasechannel::setuploadstream,normal
+117835,overflow div property causes table mis-alignment,major
+823916,[toolbox] don't use ordinal,normal
+234435,crash on clicking link in popup window [@ presshell::diddoreflow],critical
+284330,crash in  nsxuldocument::overlayforwardreference::merge [@defa],critical
+46937,redraw view\[enlarge|reduce] text size menu,normal
+675753,finish streamlining the search field,normal
+299357,options dialog does not fade to different panels as shown on mozillazine.org,normal
+333540,seamonkey trunk builds after / crashes when try to start mail&news,normal
+397933,rewrite xpcom classes to inherit from gcobject,normal
+359055,bookmark export fails when name is blank,normal
+414438,this version has no window memory.  need to resize everything every time i start it up.,normal
+334643,the (optional) utf- bom prevents html from being rendered,normal
+536253,urls that i receive in email cannot be opened in a browser.,normal
+272321,go ahead and login forgets params to editproducts,normal
+399133,svg fecolormatrix in saturation mode has a math error on the blue channel,normal
+797871,error when reading file from archivereader,normal
+307755,properties dialog does not expand iso - codes to full language name,normal
+412579,"in ebay, when trying to bid, the browser goes to a sign in screen over and over again.",normal
+682327,"assertion: failed to make gl context current!: 'succeeded' glcontextprovideregl.cpp, line ",normal
+503122,"impossible to clear cache because the ""clear private data"" option has disappeared",normal
+607467,crash [@ nswindow::useractivity] during shutdown,normal
+20796,we need a way to specify order of the template generated vs. xul menu items,normal
+160145,graphics display issue,normal
+223091,status bar total reports incorrect number of messages in mailbox,normal
+168946,more psm cleanup,normal
+75205,wrong window comes to the front when closing window,minor
+173792,page source: cilcking char coding  loses  all source,normal
+712890,"ctrl+f ""force reload"" doesn't reload plugin",normal
+258871,installation failure on debian (woody) requiring version of libstdc++ not supported in woody,normal
+684797,js_valuetoboolean(js::value const&),normal
+3698,jump to anchor on same page turns text selection on,normal
+207409,drop down menu is too short,normal
+644193,drop down menus lose focus,major
+605146,glitches with ipc/ and fakelibs,normal
+612164,data_clone_err has the wrong constant,normal
+490951,fix timeout for scripts when running mochitests,normal
+286699,resets default cannot right to hkey local user...gets wiped out by microsoft,normal
+314528,"firefox doesn't display content of page, gives background & page bottom links only",normal
+75214,pages freezes browser,major
+66139,ftp-downloading over squid-proxy not showing progress,normal
+717019,intermittent /tests/dom/tests/mochitest/general/test_getcontentstate.html | test timed out.,normal
+674518,"command+shift+t does not ""get/retrieve"" all new messages as it should. instead, it opens the ""welcome"" window of thunderbird .. thanks to fix this.",normal
+296869,tab through form elements skips and ignores fields,normal
+17561,mozilla crashes when url is opened,normal
+621670,upgrading redhat packages via yum update fails with rpm_check_debug,major
+766121,intermittent browser_gcli_pref.js | uncaught js exception - ns_error_out_of_memory: component returned failure code: xe (ns_error_out_of_memory) [nsidomhtmlcanvaselement.mozfetchasstream] at resource:///modules/pagethumbs.jsm: (+crash),normal
+787678,about:config in searchbar,normal
+457766,please consider reopening closed bug  - current close doesn't make sense,critical
+29554,crash trying to get file from ftp site,critical
+359944,composing an email hang when click on the attach menu button,major
+285357,bookmark misdirection,major
+74655,% of reply time in mailcompose spent converting linefeeds,normal
+653550,add a close button to the highlighter,normal
+38426,context menus should not eat clicks,normal
+757415,"javascript error: ""mozapp is not defined"" in browserelementchild.js",normal
+40777,drag scrolling over iframe incorrect,normal
+647172,firefox randomly freezes the whole system while playing flash videos,critical
+454209,favicon breaks when moving a tab to a different window,normal
+121419,"if multiple cookies exist, the least significant is assigned.",normal
+316991,"""check for updates..."" should say ""check for updates to firefox...""",minor
+32621,"back button returns right framesouce in the left frame when returning from a target=""_top"" reference.",normal
+793611,valgrind on tbpl detects leak -  bytes are definitely lost (direct) with ld entries on the stack,major
+53177,ie interop rfe: sync ie/psm certs and keys,normal
+104261,"attachment.cgi doesn't look in ""template/custom"" directory",normal
+346025,jscpucfg.c fails to compile,normal
+787382,expired cookies aren't deleted,normal
+149934,"layout error with font tag and ""vertical-align: bottom"" wrapping img",normal
+808276,langpack from -- fails to localize nightly,normal
+744491,update titlebar to reflect <title> of page,normal
+187883,alternate text of images is not displayed. caused by link?,normal
+83436,"nothing happens when pressing ""view"" or ""policy"" in ""downloading certificate"" dialog",normal
+323901,emails with photo attachement cannot be sent. smtp error appear.,normal
+236858,repeating get requests,critical
+602534,simpler scheduling of the last ditch gc,normal
+429550,ns_error_failure [nsidomhistory.length],normal
+104470,dom.disable_open_during_load breaks opens targeted to frames,major
+6879,can new components auto alphabatize into component list?,normal
+661477,deletion from quoted text makes the html visible,normal
+502521,firefox always opens offline after . update   not linux machine,normal
+257351,collectstats dies if an invalid series is defined,normal
+275943,. docs imply that it's necessary to run checksetup.pl as the webserver user,normal
+702975,[meta] bugs derived from examples of open ajax alliance,normal
+686312,firefox/websockets denies to receive certain valid utf- sequences,normal
+512260,active presshells should lock all descendant images to prevent discarding,normal
+708285,crash in nsmemoryreportermanager::getexplicit,critical
+548978,[os/] build break in gfx/src/thebes,major
+124164,"input field height less than text height when size =x,",normal
+352223,<foo></ foo> accepted as valid xml,normal
+75421,url crashes the browser hard,major
+584590,leak backstagepass and nsrdfresource with <xul:tab> and css filter,normal
+192684,"picture which spans a pagebreak prints incorrectly, small distorted version of complete picture appears on each page",normal
+281522,minimal version required for mail::mailer,major
+426724,apng icons,normal
+308019,"###!!! assertion: computed overflow area must contain frame bounds: 'anewsize.width ==  || anewsize.height ==  || aoverflowarea->contains(nsrect(nspoint(, ), anewsize))', file nsframe.cpp, line ",normal
+243599,selection display disappears if opacity changes,normal
+760337,add js_assert(initialized()) where appropriate in hashtable.h,normal
+674218,"version  no longer recognizes scrolling from touchpad, version  did",normal
+130373,sorting by target milestone in templatized buglist.cgi generates bogus error,major
+480504,the pop-up caret-browsing-dialogue box can't be grabbed by gok,normal
+295380,firefox doesn't follow the wrappers,normal
+392492,distribution customizations will need to be persisted across aus updates,normal
+515226,column view customizable per folder.,normal
+806733,port test_sts_preloadlist.js to the new per-tab pb apis,normal
+263563,print preview improperly,major
+719870,css background:url() repeat doesn't always repeat the background,normal
+84793,browser window sizing being ignored after visiting a site containing javascript code that reset browser window to full screen size,major
+541998,bbs posting key image display problem.,normal
+464240,file drop event is hidden from the extensions,normal
+433277,no response to clicking on abc's full episode player,minor
+547685,[html] parser/htmlparser/tests/mochitest/test_bug.html fails,normal
+557911,"""don't notify"" check box when submitting",normal
+88925,advanced edit: iframe element should not have assigned events,normal
+732162,build mobile profiling builds with -funwind-tables,normal
+633591,discard button no longer is outlined/highlighted,normal
+93842,position attribute of xul popup's does not work,normal
+455909,message details not wrapped when many recipients listed: ui buttons not visible in details pane,normal
+53885,crash clicking on <tab> that has no matching <tabpanel> content,critical
+583820,exclude app tabs from aero peek/tab previews,normal
+89529,"browser freezes on loading pages with flash, shockwave",blocker
+18361,crash executing js code that loads page in frameset,normal
+390050,svg page locks firefox,normal
+78145,embed tag in failed object tag does not expand table,normal
+639707,[.] add resume support for mac os x . lion,normal
+590970,nsnull == pl_strcasecmp is wrong,minor
+578210,can't close page or do something about it,normal
+650236,merge aurora backouts into ln-central,normal
+248782,double-clicking filesystem url shortcut generates extraneous error dialog,normal
+577223,hook up undo close tab with app tabs,normal
+590116,possible stack corruption in windows' nsiconchannel::makeinputstream with firefox release build,normal
+609030,rename createbloburl/revokebloburl,normal
+808268,localstorage telemetry to determine the fraction of dirty keys during a flush,normal
+277346,attachment name change when sending from ms office,normal
+74510,we should not extension-guess a mime type if the server returned one,normal
+321738,"floated li renders in inconsistent ways, links aren't always active",normal
+823736,bg include.js must stringify params before sending to browserid internal api,normal
+724826,nscategoryimp returns incorrect general category for certain unicode values,normal
+544000,flicker when scrolling through tab menu,normal
+24162,some forms of malformed absolute url don't work like the browsers of the majority of the people.,minor
+96870,this table of links prints out dark,normal
+217924,can t find a file i just downloaded,major
+791633,can't display double-byte(chinese) words in the exported csv file,normal
+430568,###!!! assertion: more unblockonload() calls than blockonload() calls; dropping call: 'not reached',normal
+495869,"when video playback ends, .currenttime != .duration",normal
+310582,"xhtml strict as xml should ignore invalid elements (center, font, etc)",normal
+109505,personal toolbar folders non-functional: empty menu appears,critical
+638274,re-enable tests disabled due to debug shell reftest assertion: !compartmenthaslivescripts(comp),normal
+765464,throw typeerror for binding exceptions,normal
+786893,stagefright video playback does not disable android display sleep,normal
+595236,match tabs from other windows in panorama search,normal
+362365,use anonid for relations/labels within world of anonymous content,normal
+625081,sometimes confirm() window isn't displayed correctly,normal
+412396,jpeg decoding/painting x slower on trunk v.s. branch on mac,normal
+525388,crash when i try to go from one page onto another.,critical
+451599,add preferences ui for disk cache size and clearing the cache,normal
+423793,"""assertion failed"" message if i don't select a new folder for a bookmark folder move operation",normal
+452853,"""assertion failed: !i->istramp()""",critical
+410072,crash if i click on 'sign up for gmail' hyperlink text which points to address in url,normal
+133077,incorrect png image repainting.,normal
+337907,bookmark toolbar folder out of the screen after lowering screen resolution,normal
+698123,crash [@ emptyshape],critical
+298250,crash after alert within a function called by a onblur event of a textarea with minimum one following form element,normal
+765549,"after typing a word in the address bar and pressing ctrl+enter, firefox no longer goes to http://www.<typed word>.com",normal
+34522,unicode converter for symbol charset is missing trademark,normal
+42362, string assertions at startup,normal
+450325,hand cursor disappears after the yellow tip is shown,normal
+75530,png tranparency broken.,normal
+618226,truncated message in inbox disappears on attempt to download full msg from server,critical
+789856,script errors not handled when script blocked by a content policy,normal
+430934,cannot scroll page by ibm track point,major
+323151,leaked documents for all xml binding files,normal
+716361,"firefox -remote 'openurl(about:blank)' tells ""error: no running window found""",normal
+405685,url-classifier needs to check phishing and malware prefs separately.,normal
+394970,"crash [@ nshtmlreflowstate::initabsoluteconstraints] with plugin, absolute position, xbl and more",critical
+190335,svg / gdi+ builds missing gdiplus.dll,critical
+668060,"firefox , denial of service handling html tags canvas",normal
+510270,"cannot close last tab, closes window instead",normal
+4285,"should be links, the text shows, but not as a link.",normal
+130483,freeze if error handler has an error _and_ a timeout calling itself,major
+271647,status bar covers page content during tabbed browsing,normal
+74788,images loaded through javascript call are mangled,normal
+579178,don't enumerate components/*.manifest and chrome/*.manifest,normal
+33452,no need for frame_complete notification with single frame images.,normal
+222544,"printing works perfectly, except the print preview page is blank.",major
+41368,fails html test cases on this conformance test page,major
+52593,"""mismatch in property name count"" assertion on startup",major
+18207,[mlk] leaking nsoptionlist objects due to missing ns_release,normal
+6747,html label works ok in html but not in xul,normal
+397705,bugzilla developer's guide doesn't display properly in ie,normal
+283382,space character delays printing until next word is started ,normal
+13028,on the submit button on the form it gives a  error webbot-self,normal
+420699,[mac] space bar does not scroll page when japanese im(kotoeri) is on,normal
+262412,"will open directories with ""//"" as root, but triggerts auto-complete from form url.. ",normal
+369506,calling npn_releaseobject() inside of npp_destroy() doesn't work,normal
+614632,"when in my inbox in my comcast.net email, firefox will not open any of the emails.",normal
+189465,don't support counter (css),normal
+258404,moving draft from an account to 'local folder' and editing it moves it back,normal
+638184,sites in adobeflex (flash) with sizes set at % are creating scroll bar on the page. in other browsers is not created.,minor
+433672,binary operations not evaluating operands in correct order,normal
+196670,mng chromacity testcase crashes mozilla,critical
+17978,css system colors don't refresh with system changes,normal
+392865,check this folder for new messages missing from context menu,minor
+666845,gc doesn't get triggered for this javascript,major
+502665,firefox fails to switch to new tab when link is clicked.,major
+755215,firefox does not respect the fieldset's form attribute.,normal
+2792,selectedindex doesn't work,normal
+435559,mozilla firefox should install in windows ,major
+11306,table is clipped,normal
+729130,google in google,normal
+330593,"strange unreadable text randomly appears anywhere on the screen, also in bugzilla",major
+801049,performing a search from the browser search field leaks request uris to the disk cache,normal
+509983,when commenting out javascript using <!-- -->   the javascript gets interpreted.,normal
+398297,printing one or more web pages causes the page headers to print alone on separate pages.,normal
+372143,suspicious rule: @onclick means accessible,normal
+341603,rss subscribe page icons cut off when font size is small,normal
+622441,long username cut off in mail account setup,normal
+359787,after calling this site firefox crashes and code is executed,critical
+118686,javascript dropdown menus do not automatcally go to a site when they are clicked,normal
+82133,nssupportsarray::appendelements and equals do evil things,major
+87862,win-no forced backup request,normal
+634594,"fennec qt [hardfp toolchain] crashes on startup, memory corruption",critical
+173212,subordinate lists are not html . transitional compliant,normal
+583942,jm: need trace-tests for getelem pics in tests/pic,normal
+415041,[ui] unable to switch toolbars to text/icon individually,normal
+125223,url containing japanese is not displayed well,blocker
+442411,"text is invisible : related to css font-size, maybe windows dpi setting",major
+390598,array_length_setter() is exploitable,critical
+397887,the line-height used to scroll a page up/down is not equal to the current value of the css line-height property,normal
+560545,[oracle] search.pm calls sql_fulltext_search with duplicate labels,normal
+180764,"wrong version reported in windows ""properties"" dialog box",minor
+598876,"when saving webpage to pdf for future reference, normally user(s) want to use ""printer friendly"" version (without so much ad's) to export to pdf. however, we have experienced some difficulty with the page layout of pdf download . makes.",normal
+474592,"separate mail toolbar button for marking a message with ""star"".",normal
+435962,"pages do not stop ""loading"" and back/foward buttons do not work. browser does not navigate to homepage on startup.",major
+225722,insecure dependency in exec while running with -t switch at /var/www/html/<bugzilla dir>/post_bug.cgi line ,major
+322054,does not shut down sometimes.,normal
+570239,jm: assert tripped involving setlocal,normal
+604839,drupal ,major
+638493,calling window.close() from inside a chrometab or a contenttab is broken,normal
+385438,thunderbird should download files to leopard's download stack by default,minor
+494821,firefox ..b fails to compile with cairo-qt toolkit,normal
+188286,changes in severity levels,major
+381993,crash [@ nsdommouseevent::getclientx] with mousemove generating and removing stuff,critical
+424223,hanging (beach ball) when checking bugmail,normal
+793244,convert screen to webidl,normal
+733103,last-active tab is not remembered if it's pinned,normal
+319803,"feature request: when changing product, component etc. display old product, old component, other fields in all required steps",minor
+709006,implement a orion them that matches the devtools them,normal
+330135,cpu % with random freezes (few seconds to over  minutes),normal
+348607,locale.dir=rtl does not affect all ui elements in branch builds,normal
+637320,search in address bar ignores default search engine,minor
+155840,crash [@xpcwrappednative::getneworused] betterscope is ,critical
+600803,setting value with newline on textarea has excess newline,normal
+275630,hidden digital signature indicator,normal
+411046,bidi resolution causes duplication of background images,normal
+790062,"rapid memory growth, over gb, casual browsing",normal
+328181,direction property not limited to descendants,normal
+371528,stop creating views for pages,normal
+302408,cell borders not scrolling along with tbody,normal
+661484,"eft applet broken if javascript-based content policies are present (adblock plus, noscript, greasemonkey...)",normal
+245684,add image encoding support,normal
+627191,"""show all tabs"" buttons flickers when clicked",normal
+452204,'base href' and 'applet' tag misusage,normal
+51077,"clicking backup all after a backup operation gives ""not implemented""",normal
+246515,cannot adjust file association in preferences->download. change action and remove buttons are grayed out.,major
+804933,performance bug: javascript functions run more slowly depending only on how they're constructed,normal
+203257,win shows wrong error if there are no printers installed in the system,normal
+625950,dummy implementations of atktext aren't useful,normal
+536052,"won't load pages from my google searches, ""problem loading page"" screen with random, incorrect url.",normal
+818083,baselinecompiler: compile jsop_not,normal
+37482,[crash] corrupt profile causing crash on startup,major
+442968,format outparams messages in the standard way,normal
+726777,use after free in ~nsxmlhttprequest,critical
+759709,intermittent leak in browser_views_liveupdate.js,normal
+359063,xul multiline textbox spellcheck attribute does not inherits textarea one,normal
+773210,a:active does not work in case we use event.preventdefault() in mousedown event handler,normal
+336164,implement whatwg audio spec,normal
+535805,address typedown needs sorting by usage,normal
+441786,hard to delete folders containing live bookmarks,normal
+566268,when used with english dictionary by mark tyndall (.) program so slow as to be unusable.,normal
+718753,gecko-unsigned-unaligned.apk is signed,normal
+212665,simplified chinese ime broken with flash on osx,major
+678134,"with gl layers on x/nvidia, selecting text erases the text",normal
+24937,"titledbutton cropping does not adjust ""on the fly""",normal
+231026,menus do not appear when mouse is rolled over links,minor
+538768,"tb . deletes all new pop messages in inbox and on server, bug is passed on to v. via profile after a downgrade",critical
+440554,issue when rapidly pasting into form fields,minor
+572393,the ui of pages is broken in opera .,major
+398005,javascript tests - sync sisyphus support,normal
+477804,using n for next unread message does not shift focus correctly in folder pane,normal
+185654,findcharinset for nsastring,normal
+258089,plug-in obscures(?) pull-down menus generated by javascript (dhtml),normal
+704134,"[objshrink]: assertion failure: pobj == found, at jsinterp.cpp:",critical
+288815,does not run minimized with -turbo option when prompted for account or master passwords,normal
+339575,"using a variable named ""apos"" in url",normal
+119382,'attribute nsiidptr iid' considered harmful,normal
+569942,firefox consuming more than % of cpu,normal
+535536,gmail pop account creation allows only imap server information,major
+260358,flash player  module not recognized properly,major
+268139,"when i try to install theme installer add on, it fails.",normal
+698323,mathml menclose has no offsetwidth or offsetparent,normal
+362670,[mac][cairo] graphical glitches when hovering a drop-down menu,normal
+260512,"load bookmark marked ""load in sidebar"" in the sidebar  when opened via keword ",normal
+778399,"when there is a hash symbol, #, in the address bar, simply clicking on the address bar and pressing enter does not load the page.",normal
+797579,unable to use options in ebay sell catagory,normal
+91172,webding symbol font not rendering in mail,normal
+423060,feed handling in google/yahoo/bloglines broken,normal
+99118,x remote client can't ever send commands,normal
+479617,"navigation buttons don't work when i print from ""print preview""",normal
+554225,tab bar over (ontop,normal
+284944,javascript window.focus() does not work,major
+62036,browser hangs on checking for 'user encryption when storing data' ,major
+272755,keyboard shortcuts don't work on bookmarks' context menu,normal
+111399,can`t download zip files when zipmagic is on,major
+73951,global history requires manual hook-up,normal
+240834,soap implementation does not support multiref s,normal
+326896,bookmarks toolbar buttons in places should not change after visiting links,normal
+365043,want helper for implementing nsiclassinfo without a factory,normal
+7026,[pp] bookmarks| ie favorites submenu does not appear,normal
+664107,calling drawimage with non-finite arguments should not throw,normal
+356485,css counter / counter-increment not working correctly,normal
+752973,"cannot get ""search"" box in inbox screen to work - just puts up another blank scree with search box and doesn't find any e-mail with requested sender id",normal
+462128,warning c: 'typedef ' : ignored on left of 'nanojit::guardrecord' when no variable is declared,minor
+678558,detect and reject broken gcc,normal
+297706,menulist onchange event is not fired unless editable=true,major
+643848,"""unable to connect"" error message replaces page after page has loaded",normal
+288339,in svg build: window.status does not trigger anymore from javascript embedded in svg,normal
+127915,tabindex not working in xul dialogs,major
+375094,ddeexec registry key causes weird error message -- all is fine without,normal
+80939,sherlock plugin updating fails due to incorrectly cached http head request,blocker
+249104,duplicated menus in atk accessibility build,normal
+70900,m. - crash on pages containing png,major
+482180,some general quirks,normal
+166141,"blinking of ""stop"" button",normal
+200586,operation overloading not working properly in wsdl,normal
+294697,"hint, help, alert not actions so shouldn't fire",normal
+226311,bad encoding from form to mail(outlook) usin latin characters,minor
+498204,slow to load clicked items; freezes up; checkmarked items don't always delete.,normal
+6083,xif: table border attributes output garbage.,normal
+507684,missing icons on address toolbar and on webpage,critical
+101665,n crash [@ nsocspresponder::compareentries],critical
+522363,"nj merge: remove debug-break, unused parameters on displacement check",normal
+494769,"[seamonkey, macosx] mochitest-plain: test_wav_trailing.html intermittently triggers ""malloc: *** error: can't allocate region""",normal
+308602,onalertclick() throws exception,major
+271645,crash compacting folders with nsfoldercompactstate::finishcompact,major
+86736,extra scrollbar appears on web page,normal
+136487,div borders do not always disappear,normal
+163458,corrupted image when saved  w/o filename extension,normal
+3813,can't log in to mynetscape with apprunner,normal
+362424,sometimes the text in the combobox is left aligned when it should be right aligned,normal
+334566,can't delete more than  items at a time from gmail trash,minor
+60521,% width tables do not show correctly,normal
+447795,any/all bookmarks interaction locks up minefield v.apre,major
+774464,jsscript::setsourcemap improperly handles oom,normal
+781000,[otoro] webgl not working on otoro phone,normal
+585850,rename alltabs.js to alltabs.jsm (like the rest of js modules),normal
+188946,backspace on a emoticon will crash the app,critical
+552460,ideographic variation sequences support,normal
+143663,flickering file type list in helper applications,normal
+605847,very bad text rendering (text appears smudged),normal
+294430,new window does not open,major
+142168,invalid display of colors in .css style sheets.,normal
+125924,"cookie manager has weird ""status"" column",normal
+135852,double posts on many sites. essential - sourceforge.net,normal
+315881,svg causes huge memory consumption,critical
+423719,incorrect mouseout triggered when using select element,normal
+473525,xul dialog size miscalculated for scrollable panel in container with min-height,normal
+229893,google search of keywords typed in the addressbar is broken,normal
+26167,"enter bulleted list, bold last word, last word is duplicated at top",normal
+281769,firefoy uses % cpu with  tabs open displaying the two urls above,normal
+24196,gfx scrollbars missing common unix functionality,normal
+311734,"as page loads slowly, image marks up table border specified in css.",normal
+518317,"chrome test_bug.html and others intermitently fail, ""failed to bind socket"" message from ssltunnel",normal
+224457,the java script headlines gets duplicated on other tabs,normal
+785706,message paragraph breaks at char  - bogus eol added that breaks word in two.,normal
+138550,scrolling up and down with the mouse wheel leaves artifacts on text on some pages,normal
+44825,renaming a profile that is not migrated yet fails,normal
+197178,"specific characters, like the german ""umlaute"" are not shown as they shoud. there is a ""?"" instead.",normal
+262801,key bindings should be user configurable,minor
+63527,autoscrollable submenus remain open after switching app,normal
+32833,feature: implement id/idref(s) linking,normal
+464309,message headers don't scroll with the message,normal
+313977,hold shift and double click on a section of text on a web site.,normal
+106105,document content height returned from gecko is not correct in this test case,normal
+824952,browser-wide lag caused by snow script,normal
+347981,underline breaks arabic joining in xul text,normal
+187429,link included div-tag  has active areas outside link,normal
+164259,buglist.cgi error at line  using boolean query,normal
+738193,'for (x of foo.childnodes)' sometimes yields enumerable property names instead of iterable properties,normal
+207294,main frame of page not shown in mozilla,normal
+785510,[accessfu] only instantiate ay engine on accessfu._enable(),normal
+411706,missing line of image when image is at top of viewport,normal
+462666,thunderbird handles appledouble attachments incorrectly,normal
+333472,"element width calculation broken (both internally and exposed via offsetwidth) when using css width=% and padding-{left,right}>px.",normal
+529574,should notify of maximum password length on registration page,minor
+3652,mlk: nscaret during firing,major
+38260,necko file cache depends on xpfe!,normal
+434544,cross scripting between signed and unsigned web pages,major
+124182,move nsavltree into htmlparser,normal
+72597,can't tab to <a> in absolutely positioned <div>,normal
+645140,"no way to tell when other tab groups are being used, appears that firefox has no tabs open but really has many",normal
+405921,visually identify dynamic containers,normal
+526196,use  space indentation in electrolysis,normal
+501227,check spidermonkey correctness on sputnik test framework,normal
+352271,crash dereferencing xdadadada [@ reportcompileerrornumber] called from checkdestructuring,critical
+239033,"attachment descriptions with ""bug xxxx"" in them create garbled links in bug page",normal
+807991,fireftp causes manu js sinc reflows,normal
+192016,css text-align directive applied on the table tag centers the cell contents instead of the table as a whole,normal
+530659,facebook chat connection issue in firefox . beta,normal
+357861,shutdown crash in mail after sending and reading a message.,critical
+276123,recent mac nightly builds contain naught but lump of coal,normal
+748426,[azure] assertion failure: nelements <=  [@js_newuintclampedarray],normal
+818668,awesome bar becomes unsearchable after time,normal
+253929,crash after clearing cache and surfing this site,critical
+564634,"tries to load images within json (improperly encoded), causing unnecessary s",normal
+39659,[ender-lite] page redraws every time you type,normal
+763026,shift+leftclick on a bookmark link does not show site address in the address bar,normal
+281821,add mention of 'testserver.pl' to webserver configuration section,normal
+592783,always attempt to extract application.ini and the child process executable,normal
+670338,add double overload to nstointround to stop build warnings,normal
+726092,[huge image] zooming image using ctrl+/- causes it to become transparent and zooms randomly and distorts,normal
+606070,warning c: 'return' : conversion from 'const pruint' to 'pldhashnumber' in nshashkeys.h,minor
+420790,"""assertion: negative flow length?"" with xbl, <caption>, lro",normal
+818379,interface objects should have an own length property even when we're faking the function,normal
+442653,go button turned into a bookmark star,normal
+585471,indexdb thread safety assertion on windows debug tests,normal
+591547,intermittent crash [@ xac][@ xpcjsruntime::gccallback] in mochitest/ajax/offline/test_identicalmanifest.html,normal
+558337,wrong s/mime recipient certificate selected if two certificates have same subject,major
+496564,after difficulty manually entering plug ins - sound volume on plug ins extremely low?,normal
+763839,implement facebook's socialapi dropdown menu,normal
+93581,dns failure not indicated by nsirequest::status in onstartrequest,normal
+232583,"combine nsimarkupdocumentviewer, nsidocumentviewer, nsicontentviewer, ...",normal
+587095,autocomplete in console is over aggressive,normal
+713301,phone calls not working in emulator,normal
+193535,page not displayed properly. images and text not laid out propoerly,normal
+10448,page jumps,major
+469451,starts to hog ram after a few minutes of use,normal
+418103,usability: back button is not clickable at the edge of the screen,normal
+626634,back/forward buttons. add a hint that a right click menu is available,normal
+637397,"jm: assertion failure: cx->compartment->debugmode, at ../methodjit/retcon.cpp:",normal
+26640,crash in mem cache loading bbc news site,normal
+717855,intermittent test_bug.html | application timed out after  seconds with no output,normal
+339057,popup ad in mozilla but not in ie,normal
+583211,"html input type image only submits x and y, not name when clicked. keyboard is okay. firefox . submits all .",major
+444257,selectionstart will make the script bug when display:none;,normal
+771102,support sample_marker from js,normal
+653703,correlate c++ profiling with event loop non-responsiveness,normal
+662969,silence the clang warnings issued because of alignment requirements increase when compiling jsparse.h,normal
+763993,ux for signin-to-ua on desktop,major
+375056,firefox thinks that the version number ... does not fall between .b and .a when checking extension compatibility,major
+16034,milestone  build exception error,normal
+821140,"nsidomwindowutils apis still say they require ""universalxpconnect privileges"", when they should say ""chrome privileges""",normal
+633560,integer undefined behaviors in firefox,normal
+648237,two xpcshell failures - test_.js/test_handlerservice.js,normal
+408788,"ambiguous wording in ""have i visited this website before today?""",normal
+388787,long pages in mediawiki display incorrectly,normal
+214434,mozilla fails to render css for td elements when printing.,major
+537611,"crash in [@ nsaccessible::queryinterface(nsid const&, void**)] checking and unchecking 'attachments' in new search functionality",critical
+728792,firefox . hangs when save to pdf in print-preview [mac] script: chrome://xbl-marquee/content/xbl-marquee.xml:,normal
+133042,xsl generated doc showing endnote tag problem,critical
+72839,expires headers ignored; pages never cached,major
+187674,right click on url bar should provide a clear option to erase the entire contents of it,minor
+467005,double items is layout when alert() called from mutation event handler,normal
+77227,have to open new window after disabling javascript to see <noscript> content.,minor
+73158,"tables render with incorrect widths; renders radomly on reload- usually wrong, occasionally correctly",normal
+709459,perform audio extrapolation and blending when stitching clips together using processedmediastream,normal
+272861,enter access in page key will not allow change of url,normal
+585285,"make styling for type=""menu-button"" toolbarbuttons respect the toolbarbutton- class",normal
+779001,[azure] fix falling back from dd to cairo drawtargets with large surfaces,normal
+675191,cached dynamic overlays still get saved to fastload (startup cache),normal
+772829,use mochitest.mk in a few more places.,normal
+282167,mousing over <select> elements invalidates an area that is too large,normal
+380182,undetectable property: error.prototype.stack,normal
+210141,javascript_global_property_category stuff shouldn't be readonly,normal
+57361,deleting the parent profile dir causes registry update problems..,normal
+512158,"ff repeatedly starts, crashes w/o user input",critical
+91881,javascript error in cookietasksoverlay.xul,normal
+594732,broken statusbar,major
+555099,nsautogcroot used as temporary,normal
+102534,typednode serialization doesn't handle default namespace correctly,normal
+375529,;lkjhgdi  j,normal
+172093,can't assign a width style in pixel to a newly created node,normal
+658532,home page tabs not retained,normal
+722654,"leading whitespace in plaintext messages is stripped when smaller-than sign ""<"" is first character",normal
+415558,conflict between !important declaration and specificity rule resolved incorrectly,normal
+611025,firefox .. crashes whenever browsing for - minutes with - tabs open,normal
+621630,"plugin not loaded when inline code tries to access it, if in a form",normal
+529502,"gmx smtp server ""use secure authentication"" is enabled by default",normal
+293322,automator actions,normal
+479374,"browser starts site web page display then crash with error message ""can't build config""",critical
+224844,browser does not recognize ssl certificate,normal
+305258,other firefox windows disappear from task bar,critical
+801323,"'multiple tabs, confirm close' dialog always show, even if disabled in options",normal
+641781,port the safe mode startup screen from firefox to thunderbird,normal
+750056,launcher panel moves to the top of about:home page when in rtl mode,normal
+406460,"when copying from inside of a <pre></pre> tag, the content's newline characters are stripped.",normal
+345529,crash in pref_docallback() (node is xdddddddd) when i use about:config to change the hidden browser.tabs.closebuttons pref,normal
+21958,personal toolbar items change size as you mouse over them,normal
+308773,"background color for table cell, on print, fills page with cell's background color",major
+727425,/usr/share/applications/mimeinfo.cache is used for default applications,normal
+42010,atomkey::hashvalue casts pointer to pruint,normal
+561533,"firefox .., .. (installed on benq ae) aborts x session when opening certain sites",critical
+309088,relocation r_x__pc against `memcpy@@glibc_..' can not be used when making a shared object,normal
+26329,need to unregister and remove appshell component.,normal
+463643,crashed after updating mysql plugin for firefox.,critical
+485703,hide buckets not containing additional entries,normal
+740375,get rid nsiaccessible innerhtml method,normal
+74228,underline continues past its closing tag - residual style?,normal
+272421,cant generate a midas editor using dom tools,blocker
+779671,load_flags_bypass_cache doesn't work when offline,normal
+58333,middle mouse button paste of url no longer works,normal
+131063,surrogate characters can not be pasted into xp ms word as source format,normal
+823224,crash when running enumerateeditable on device storage for pictures in a privileged signed packaged app,normal
+175066,error mesg. generated when clicking on link to download files,major
+36981,default table values don't show up for row and column,normal
+82468,offline then online unable to go to any uncached url,critical
+209844,navigator.javaenabled() always returns false at start,normal
+573013,mozilla crashes the display driver when dd is enabled,critical
+719118,"firefox crash [@ mozalloc_abort(char const* const) | mozalloc_handle_oom() | nsmemory::clone(void const*, unsigned int) ]",critical
+266324,"crash if ""window.find()"" is called in a ""while(true)"" loop of a javascript",critical
+170556,particular embedding of flash object in html causes mozilla to crash.,normal
+93045,unknown certificate authority dialog popup freezes mozilla,normal
+409617,autocomplete reverts to . mode after location bar is removed and added,minor
+167222,changing web pages within nybass.com site caused crash,major
+223552,incorrect count in status line on get mail,normal
+685933,firefox  live bookmarks broken,normal
+277135,[svg sr] style system,normal
+448843,svg texts are not set by the svg's own markup,normal
+284091,cannot enter data in https page,blocker
+285705,index on some text columns on postgres needs to use lower,normal
+8938,incorrect frame rendering,normal
+427716,don't get modules before locks,critical
+167282,"remove ""nsilocalfile file"" and ""nsifileurl fileurl"" from nsifilepicker,  just use files",normal
+393582,improve the nsxulpopupmanager.cpp nsnavigationdirection code,normal
+544075,a part of the american english firefox is in brazilian portuguese,normal
+80615,back/forward buttons broken,major
+103399,[rfe] give better representation of selection that is being dragged,normal
+236966,need a better api for getting computed padding/border/margin/outline,normal
+57914,textarea pasting into the middle of blank lines is wonky.,normal
+522931,"texttosuburi.unescapeandconvert(""utf-"", null) causes crash in ns_strdup",normal
+80892,text fields do not accept bit characters,major
+638596,document.getelementbyid(...).value returns reversed string under certain circumstances,minor
+306861,menus are no longer consistant with other xp applications and dont behave correctly,major
+583393,"on encrypted mail, detach and delete both grayed out on file attachments menu and on attachment pane right click context menu",major
+531973,vcard prefered message format,normal
+225302,document.onfocus = function() { alert('hi'); } causes crash of mozilla,minor
+374460,freezes at start or extremely slow to open home page,normal
+563650,throbber or busy indicator in folder tab part runs continuous,normal
+238853,"mozilla . ftp fails to copy files over ,,, bytes in size",normal
+593733,support some form of component alpha with gl layers,normal
+159331,font mapping is different from ie when font-size has a non-integer value,normal
+650720,"[html] canvas.todataurl(""image/jpeg"") should composite onto black",normal
+205562,position of <li> elements in source causes caret movement problem,normal
+542047,forward nsdomscrollareaevent,normal
+409828,printing failed for indic webpages (sometimes blank output sometimes garbage text printed),major
+466791,"error like: "" gateway time-out"" produces a blank page",minor
+258193,nsidommouseevent::getbutton() broken with contextmenu event,normal
+396726,serious performance regression in dealing with binary-data-as-text document on linux,normal
+699661,make obj->getelement actually call into the ops getelement hooks,normal
+277628,help shows enter instead of click (left click),normal
+808691,the remote and chrome debugger windows should remember their size across sessions,normal
+621205,add something single-threaded and shared between compartments,normal
+453343,provide better error message for the stack-only checker,normal
+329149,places should open in current tab if it is about:blank.,normal
+401963,adding a button to the dom on document load causes input fields to blank on refresh,normal
+224470,site renders improperly with certain browser resolutions.,normal
+78450,plugin windows don't work with mouse wheel.,normal
+562198,firefox .. gets different response from server in comparison to firefox .. in the same page,major
+203513,advertisements acting screwy,normal
+196107,debug: networking preferences in wrong category,normal
+451981,add a build target to compare bin/ and the package list,normal
+606717,comparison between signed and unsigned integers in nstexteditrules::collapseselectiontotrailingbrifneeded,normal
+536872,"in windows xp pro message box ""thunderbird has encountered a problem and needs to close"" with send, don't send option",critical
+608683,java is qick but after scroll no refresh of java window,normal
+389739,xmlhttprequest readystate does not define constants,minor
+749874,"[meta] camera api (getusermedia, still image only) support -- android",normal
+498227,can't delete message thread w/ keyboard if select thread is invoked while message pane is focused,normal
+635424,"assertion failure: !compartmenthaslivescripts(comp), at d:/dev/tracemonkey/js/src/jsdbgapi.cpp:",critical
+369243,removed unused flag ns_block_shrink_wrap,normal
+379395,xul loaded in content cannot call functions defined in (same-origin-) xul loaded in iframes,normal
+551442,"when oracle j-initiator starts firefox . (..) crashes, every time.",normal
+262035,"when clicking ""read mail"" from tools menu thunderbird will not open.",major
+321445,cannot create or edit bookmark,normal
+71710,allow users to opt out of depend emails,normal
+510855,update doesnot launch firefox,major
+330206,the places window should remember the position of the middle bar,minor
+798929,archiving a mail folder does not preserve tags in subfolder,normal
+279511,"only shows incompatible extensions, not incompatible themes",normal
+747346,cleanup nstexteditrules::createtrailingbrifneeded(),normal
+676185,nsifile.equals should ignore case for case insensitive filesystems on osx,normal
+772297,windows profile symbolication doesn't support json format,normal
+704256,firefox stops responding periodically for ~ seconds.,normal
+171053,network image requests should not generate progress notifications...,normal
+367381,no content printed,normal
+519481,advanced search has empty version and milestone,major
+257545,firefox crashes when clicking the 'products' link.,critical
+495056,leak of argument bitmap with generators,normal
+444740,"thunderbird should verify all subscribed imap folders for incoming e-mail, not only the inbox",normal
+634104,works on google chrome,normal
+10129,[pp]version registry: package node not created after triggering jar file,major
+52687,window titles missing in our dialogs including the password dialog. ,normal
+616148,unable to type in address bar after viewing pdf with adobe reader ,critical
+575494,es: remove drop_dead from necko source,normal
+537942,read error right after installing thunderbird ,normal
+216028,request for scott doesn't warn for > matches,minor
+619555,fix the description of bug.attachments,minor
+279171,chromehidden attribute should be set earlier,normal
+91401,ocsp's response signer confusing,normal
+656221,"ti+jm: assertion failure: fe_ != null, at ../methodjit/framestate.h:",normal
+297271,thunderbird doesn't fully load when selecting one of multiple profiles,normal
+296816,cairo-gtk build fails with cairo .,normal
+761094,enable ie migrator on mingw builds,normal
+341822,attachments when retrieved from postgres are garbage,major
+276224,"using document.write (javascript) on an xslt created page (inline) creates ""uncaught exception"" in the js console",normal
+351771,attachment.cgi?...action=viewall should not show removed attachments,minor
+776497,crash in nsglobalwindow::setnewdocument,critical
+178119,img tags with style attributes are being ignored,normal
+337458,feed preview: font-size in px instead of %,normal
+760833,awesome bar directs to last url for any url picked,normal
+152769,"mozilla doesn't support ftp in ""passive mode"".",normal
+294186,context menu cut off at top/bottom of page,normal
+519633,displays wrong - latest opera & safari correct,normal
+180747,"untrusted content shouldn't be able to resize to smaller that / pixels, or larger that screen. is this always so?",normal
+450886,[meta] restore window features as accurately as possible,normal
+731105,npr.org zombie compartment,normal
+151835,internal table borders incorrectly sized when used with form tags around trs,normal
+703568,disable battery api by default in firefox ,normal
+87946,focus goes to urlbar when opening new browser via open web location [no form],normal
+352002,no more searchengines,critical
+628741,moved messages remain in message list,normal
+395600,crash on hitting url,normal
+56302,event capture stops working.,normal
+220861,message pane empty if focused during mail download,normal
+438773,wrong bookmark favicons on start up,minor
+261319,"scroll wheel (mouse) functionality limited by pointer location on ""printed"" page",minor
+33781,cannot put <template> in a <treeitem>,critical
+369234,"firefox windows blanks out after displaying page and sits continuously ""loading...""",normal
+257780,title attributes added by setattributens are displayed as xhtml-title whatever is there namespace,normal
+29408,bugzilla - process_bug.cgi (changing a bug) appends info on another bug,normal
+305198,malicious url makes firefox unhappy,normal
+642299,"add jstests to make check, with jitflags",normal
+666861,data:image/png;base image don't display properly in view page info,normal
+318143,sometimes messages are marked as junk but left in the inbox,normal
+186551,js screen.width returns wrong value,normal
+29302,typography issues,normal
+121058,table background improperly redrawn,minor
+505132,caret browsing automatically enabled on upgrade from .. to ..,normal
+34473,endless loop of gdk-critical messages on stdout,normal
+113008,nsidomnodefilter should be flagged with [function],normal
+324717,extra extensions.getmoreextensionsurl and extensions.getmorethemesurl prefs in firefox.js,normal
+495650,multiple compile errors with cairo-qpainter-surface in qt port: starting with _cairo_traps_extract_region(),normal
+47369,pref popup menu for chaset comes as empty,normal
+202948,choices for autocompletion on address bar appear off the left side of screen,major
+213637,"mozilla runs at % cpu usage after wireless card is removed, or resuming from standby",critical
+637166,"crash [@ mozalloc_abort(char const* const) | mozalloc_handle_oom() | std::_allocate<messageloop::pendingtask>(unsigned int, messageloop::pendingtask*) ]",critical
+619816,org.mozilla.fennec should be configurable via configure.in,normal
+755312,drag and tear off a tab to new window and the window has no tab,normal
+229960,gif images show as black areas; ok after starting ie,normal
+738387,div over flash with round corners,normal
+335716,missing part of long e-mail when saving as txt file.,normal
+554618,pdf file extension and header,normal
+267812,ffrc crash on flash pages [@ js_addargumentformatter],critical
+299378,java script is invisible.,normal
+448585,"browser redirects the page even if the document has xml errors (is not ""well-formed"").",normal
+438547,cannot login to my isp,normal
+352876,"""assertion failure: js_uptrdiff(sp, fp->spbase) <= depth * sizeof(jsval)"" with finally{return}, finally{yield}",critical
+450667,nsdomstorage::getquota should be reconciled with nscontentutils::offlineappallowed(),normal
+375585,deadline not showing in edit search view of saved search,normal
+706180,use /tools/gcc-.-moz,normal
+272578,browser crash in nsframemanager caused by nested xul tooltip tag,normal
+106394,text zoom menu item does not update,normal
+336499,smtp send is delayed when windows xp firewall is enabled,normal
+352180,remove intlcmpt library,normal
+633759,javascript window.open invalid argument,major
+47837,page mark goes just outside view,normal
+27144,"with no body content, editor adds a br moz_editor element in page source",normal
+86921,url prints incomplete...,major
+718850,ionmonkey: jsop_and cannot be used in loops.,normal
+337817,"""mails received"" traybar popup does not follow/understand message filters",normal
+300364,disabled form elements are enabled/disabled differently on reload,normal
+728632,leak with css mask,normal
+797304,reimplement movewrappers in terms of orphan fixup,normal
+95629,settimeout or setinterval throw an exception,normal
+567657,automatic proxy does not work with java plugins,major
+320780,resize window upon utilizing gmail drop menu,normal
+425826,test case for bug  renders at different scale for http vs file urls on some pcs but not others,normal
+364151,inefficient sql: selecting custom fields from fielddefs,normal
+806199,firefox steals a user tab to show the update info,critical
+251146,canonization (adding www. and .com/.net/.org) and alt-enter (to open in new tab) together only works for combination of shift - alt -enter,normal
+12612,m solaris  build crashed (core dump),major
+509889,nseventstatemanager::getcontentstate needs fast path to nsfocusmanager::getfocusedelement,normal
+809510,"[market] [ux] [persona] message ""we are sorry..."" appear more times than necessary",normal
+654082,building in gcc c++x mode uses symbols from libstdc++ . on debug builds,normal
+489118,"when i try to print a document from my banking url, most of the print in the body fails to appear. only the header & footer graphics show. this did not occur when using ie . also, when i try to view video through mls.net, i get a blank video feed screen.",normal
+118232,"ssl ""lock icon"" tied to first tab only",normal
+404875,stop requesting goog-white-exp,normal
+616342,page-break-before/page-break-after should not apply to inline elements,normal
+657780,framelayerbuilder warning pldhash,normal
+167978,fix throw*error ln regressions and add a test to catch more,normal
+255565,mouse shortcuts - paste url and go shorcut is working only on linux by default,normal
+785679,media/gfx push required a clobber,blocker
+355987,content does not open a new tab,major
+237400,audiodev environment variables causes crash on keyboard input,normal
+414471,flash screen draw bugs with firefox/mac,normal
+336570,adblock plus crashes firefox on many images/flash,major
+361685,"let can shadow ""var"" in a sub-scope but can't shadow ""const""",minor
+337367,eliminate ns_newlocalfilewithfsspec and ns_newlocalfilewithfsref,normal
+87870,fill saved data before showing the page,normal
+773518,netwerk\cache\nsdeletedir.cpp should use windows vista io prioritization to lower its io priority,normal
+572018,video -> webgl texture update causes massive memory leak,critical
+245557,mozilla . rc crashes when the above link ( ingdirect.com ) is clicked on.,normal
+591478,.. becomes not responsive,critical
+577518,stack exhaustion on startup with accessibility enabled and default browser dialog not yet answered,critical
+402377,can no longer rearrange bookmarks,normal
+280917,scrolling is slow in frames with heavy loaded page - page scrolls smoothly out of frames,normal
+414088,investigate framearena sizing,normal
+7737,[pp] a crash occurs in apprunner after clicking on my netscape.,normal
+671113,poison jsscripts when freed to get more crash data,normal
+355842,"zero length lines not drawn (should be visible if stroke-linecap=""round"")",normal
+604108,function namespace object has the same bug as the anyname object.,normal
+811737,unable to print pdf files from register of deeds,normal
+100176,url: schemes should error if they are not registered.,major
+59238,unable to load this url in ns,major
+44048,chrome has no autodiscovery of packages,normal
+138348,transition trunk build fixes to stable . branch,normal
+512195,tm: proto lookup in js_newobject is ridiculously slow,normal
+222565,folder choice,normal
+535064,~mb hi-res jpeg appears as black square,normal
+436263,cannot convert ‘__va_list_tag**’ to ‘__va_list_tag (*)[] in jsapi.cpp building js shell,normal
+488629,error when using network based geolocation when offline,normal
+788419,crash in js::debugscopeproxy::handleunaliasedaccess,critical
+345936,frequent crashes for bon echo; incident id tbh,normal
+519677,"""ok"" button in ""about thunderbird"" dialog should be aligned right",normal
+421132,moving bookmarks from bookmarks menu to unfiled bookmarks loses bookmark,critical
+562447,when navigating in gmail sometimes get a screen full of white,normal
+654025,lighting filter renders randomly,normal
+577050,cannot print or enlarge pictures in firefox,normal
+334789,repeat doesn't work in xul,normal
+28468,removing bullet requires hitting icon twice and causes caret to move to the next line,normal
+159963,a way to close channel programatically,normal
+303867,"designmode=""on"" does not work with xulrunner",major
+821367,popup falsely reports a problem with realplayer and downloads malware instead of solution,normal
+22085,"[pp]install script fails with ""os drive"" param for getfolder (and null param for addsubcomp)",normal
+51497,strange right mouse click behaviour,normal
+72685,networking: cache component needs change,normal
+424949,keyhole (back/forward buttons) in small iconic mode are too big,normal
+787698,consider disabling tab animations,normal
+421275,thai above and below vowels display incorrectly in url bar,normal
+364431,bookmark toolbar comes back like a boomerang,major
+562574,"during test_bug-.html: ""warning **: expose rectangle not in clip rectangle"" and ""###!!! assertion: clip rectangle offsets are negative!: 'offsetx >=  && offsety >= ', file nsobjectframe.cpp:""",normal
+156866,moz-icon: urls generate onerror events,normal
+99536,browser does'nt import the website cert again after deleting website cert.,critical
+29908,opening mail message takes out networking on mac,blocker
+261459,remote images blocked message also shown on plaintext mail,normal
+563227,potetial memory leak on pages using flash,critical
+201387,behavior of html font face= and font-family in css different for symbol fonts,normal
+613519,"new in .: for tables, firefox will preview and print only the first page of the url, swallows all following pages",normal
+481214,"keyboard/mouse problems after clicking on ""add exception"" (if untrusted connection)",major
+29540,right click issue,normal
+486489,mochitest-chrome intermittent leak of  kb,normal
+370906,[rfe] dynamic tracing frmework for mozilla,normal
+236302,omniweb profile migrator,normal
+788696,"parts of many websites, like facebook chatlist, and parts of the ui weren't updated/refreshed before another programm gets the focus.",normal
+777834,"""assertion failure: ptr,""",critical
+636249,"after . upgrade, no email notifications being sent",major
+141184,"img src="""" does not authenticate when page was loaded as file",normal
+568613,"[es] ""browser.history_expire_days"" clear user pref doesn't work in child processes",normal
+582952,frequent hangs when manipulating the profile lock,major
+806063,firefox mixes tabs and urls up,normal
+219706,using arrow keys to select drop down list box items selects two down or two up,normal
+411981,"""more"" and ""less"" appear different on mac and windows",normal
+344067,passing +-inf or nan as index to options.add() halts script execution instead of throwing an exception,normal
+187611,cannot view source when viewing xslt translated xml documents,normal
+614493,move name information from jsfunction into jsscript,normal
+499803,implement simple clipboard on windows ce,normal
+276176,program crashes,critical
+174595,ctrl-f keyboard accellerator broken ,major
+745188,remove erroneous language parameters to xhtml headers,normal
+591008,"browser_hudservicetestsall.js | log() is logged - didn't expect -, but got it",normal
+575390,make methods that can be called on uninitialized imgcontainers explicit,normal
+171147,version number is too low.,normal
+796418,[azure] cairo check matrix consistency before drawing,normal
+4163,dragdrop event on window does not work.,major
+802556,list of rss messages is cleared everytime it's refreshed,normal
+701443,"amctv.com causes long cc times, zombie compartment, high heap-unclassified",normal
+463627,<video> audio playback stops after some seconds with alsa backend playing via pulseaudio,normal
+485639,date.parse is too sensitive to spaces (am/pm marker),normal
+87904,need delete file confirmation if the files are not in profile root,normal
+177953,most form widgets don't print,normal
+7393,"assertion failure: !""i/o method is invalid"", at priometh.c:",normal
+55023,click on tab crashes mozilla,critical
+110382,clicking on file: link in html doesn't do anything,normal
+588410,make install doesn't work with omnijar,normal
+434850,# symbol in folder names crash tb,major
+470456,cannot watch video on reuters,normal
+262665,reload fails to reflect changes in selected attribute in select/option form inputs,minor
+477530,setbasevaluestring on nssvgviewbox and nssvgpreserveaspectratio do not notify element of change,normal
+10069,link does not work after maximize + unnecessary repaint,major
+451313,do not search bio technology,normal
+695947,"intermittent test_webgl_conformance_test_suite.html | test failed, ""successfullyparsed should be true. threw exception referenceerror: successfullyparsed is not defined"" (url: conformance/glsl/variables/gl-fragcoord.html and gl-frontfacing.html)",normal
+534557,"bookmarks toolbar not showing bookmarks, not allowing drag-n-drop, linking to urls other than bookmarked site",normal
+561482,switching tabs in a popup with a readonly locationbar doesn't update the locationbar (spoofing),normal
+314534,"if http is selected under #ftp folder, .htaccess control is bypassed",normal
+532021,when xul tree item is collapsed/expanded then ay mutation events aren't fired properly,normal
+51922,does't render page correctly ,normal
+592009,appendprintf truncates output to  ascii characters,normal
+427377,no back-button at all,major
+71055,nsifilechannel needs to be in its own idl file.,normal
+354366,"navigator.registercontenthandler uri param must contain ""%s""",normal
+727873,"nightly rejecting ssl certs for bugzilla/google, etc",normal
+555784,not show the tag 'sender',normal
+619660,no start after umdate,major
+410902,some characters are mangled in diff and interdiff modes when viewing attachment,normal
+119039,sharedemptybufferhandle bad for threadsafety,normal
+634356,browsing stop for about  seconds,critical
+779704,cleanup linker cruft for freebsd from configure,normal
+86810,build  doesn't display cached pages for groups.yahoo.com,normal
+320514,"counter values are not stored, if increment done in :before.",normal
+358339,"[trunk] mail and / or news message header display is broken, too small.",normal
+304832,<strike> lines do not change color when highlighted,normal
+240642,"link => save dialog accelerator key for save should be (s), not (k)",normal
+33400,java script buttons don't work.,blocker
+735149,text in <marquee> gets hidden behind div when inflated,normal
+38828,"security issues with window.defaultstatus
+          security issues with window.defaultstatus",normal
+485753,-p switch to start profile manager doesn't work on thunderbird,minor
+271840,"when apache return http header ""content-type:	text/css; charset=win-"" css don't locking good",normal
+775574,problem with firefox  on youtube,normal
+558305,unable to load/start-up firefox after update installation,major
+811632,using a method which accepts a web idl callback type on a native object implemented in a namespace breaks the build,normal
+729539,title attributes not showing in developer tools sidebar,normal
+684302,quick filter read icon different from read column icon,normal
+476146,missing capture in spidermonkey regexp engine,normal
+97182,autoconfig is created twice as part of netscape.cfg reading,major
+721335,"datatransfer.dropeffect is always indicates ""none"" on dragend after dropped into a customtreeview",normal
+758110,zombie compartment: text link extension,normal
+332497,slow down when selecting japanese text,normal
+814900,byte order mark/bom in big-endian xml-files causes fatal error in firefox  & ,normal
+231627,mozilla . works but mozilla . fails to startup after blackdown java plugin is linked,normal
+229578,"javascript's ""document.images[i].complete == true"" always reports pics as completely loaded, even if they are not...",major
+119677,wrong scrollbar behaviour ,major
+150814,mozilla won't start,blocker
+248318,javascript error with http/https uris in frames,normal
+300726,mouse shortcut with wheel is broken,normal
+605905,[qac generated] invisible tab - panorama,normal
+357567,messages disappear when grouped on spam arrival,normal
+472809,[meta] ay mutation events,normal
+169105,png's with under  colors do not display correctly.,major
+321978,"after thunderbird starts, at bottom left, it indicates ""building summary file for inbox""",normal
+280614,congrats helpers,blocker
+56051,js menu displays in wrong place and all unfolded,normal
+48213,none: see html inserted below,major
+32803,http:file.html doesn't resolve correct,normal
+355532,open file greyed-out for .svg files,normal
+101857,support creating cache entry with no data,normal
+405470,forcehandshake should be removed,normal
+342388,checksetup.pl error,normal
+336569,intentional popup's text wraps to size of amount of icons along status bar,normal
+175498,allow shift-click to open new window,minor
+609521,browser_bug.js leaves alert windows open on windows,normal
+402288,ff refuses to follow redirects via pragma refresh,normal
+777926,"default bookmark title for error pages is ""problem loading page""",minor
+119434,checksetup.pl list enhancements since last run,normal
+416033,"after downloading avanquest software, firefox crashes on opening. an error message identifies ""searchshield.dl"" as the problem.",critical
+8655,problems with interlaced gif's,normal
+92444,note all blocked cookie/image sites get deleted,normal
+758904,"the new version prohibits the editing of the foxtab add-on, which i use as my homepage & find most appealing.",normal
+597951,"startup crash  [@ morkcursor::isopenmdbobject(nsimdbenv*, unsigned char*) ]",major
+364352,can not navigate through dhtml tree view.,normal
+770480,"when i open a new tab,  boxes are displayed on the screen which are suppose to show the previously opened websites. but the boxes only dislays the name of the websites opened no screenshot of the websites are dislayed in the boxes.",normal
+246770,hyperlinks is not ui grabble in gok,normal
+92217,[reflow] text doesn't rewrap after becoming small enough to wrap,minor
+751749,cannot configure keyboard shortcuts to use meta modifier instead of alt,normal
+23975,sched: xptoolkit m tasks,normal
+773347,hide the less useful gcli commands,normal
+774943,"session restore puts ""+"" button in the wrong spot and hides first tab",normal
+347778,moveto no longer creates directories when needed for mac os x - (fallout from bug ),normal
+292588,shutdown crash !sxpconnect [@ nsscriptsecuritymanager::checkobjectaccess],critical
+24550,file-open_new_web_folder mixes background in window,normal
+724245,crash in nsxblprotoimplanonymousmethod::execute @ js_allocflatclosure,critical
+287688,"""bookmarks"" item has inconsistent text layout during customizing",normal
+349360,"in manage bookmarks>file>import>file, attempt to import bookmarkbackup file results in a microsoft redirect url as follows: http://www.microsoft.com/windows/default.mspx",major
+522424,will not keep saved passwords when closed and reopened quickly.,normal
+649266,certificate window is broken with long text labels,normal
+553931,automatic update of .. results in non functional thunderbird after restart,critical
+645655,unable to login in to email,major
+198968,radio button on show_cgi page cannot be unselected,normal
+724442,zoom out breaks alignment of spry content slides,normal
+118327,appendchild() throws exception,major
+362757,euro currency symbol not displayed in web pages and web forms.,normal
+467589,custom nav-bar settings ignored,normal
+258897,"""inbox"" folder in local folders can not be localised - hardcoded in english",major
+83900,auto-advances too soon in fixed-length form entries,normal
+825329,properly get the playbackrate from the audioclock.,normal
+33387,looooong delay when loading this site,normal
+324828,nshtmlformelement::resolvename and various form.elements stuff should flush,normal
+325933,intermitent crashing...,critical
+691925,replace calls to content.focus with calls to gbrowser.selectedbrowser.focus(),normal
+31928,tables with cells including transparent gifs are rendered incorrectly,normal
+267424,frequent profile corruption,normal
+349049,subscribe to feed cancel confirmation dialog (sheet) comes up after parent window closed,normal
+729692,create a getcomputedstyle() method that reveals :visited styles.,normal
+330995,double-clicking items in bookmarks menu in the places window can't spawn a new browser window when there are no browser windows opened,normal
+561965,"une erreur est survenue lors de l'envoi du courrier : le serveur de courrier a envoyé un message d'accueil incorrect :  cannot connect to smtp server ... (...:), connect error .",normal
+237357,crash with html labels with moz-user-focus: normal who are cross-referencing each other.,normal
+58404,javascript: urls that open new windows case strange behaviour,major
+676636,[optional_argc] should consider not consider 'undefined' arguments as specified,normal
+541684,firefox forgets settings,normal
+262940,frequent crashes while closing browser,normal
+750869,support webrtc for android in our build system,normal
+454283,###!!! assertion: flush() failed: 'ns_succeeded(rv),normal
+813624,hang when confirm opened while re-sizing window,normal
+154147,will not convert netscape profiles,normal
+116170,crash on ftp://ftp.dict.org/,critical
+504987,large table rendering hangs firefox ./..,critical
+35781,"sometimes url entry bar hangs, cannot enter new urls, urls are out of date",major
+166780,printing to file doesnt work,normal
+320244,"firefox browser initializes to a mcdonald's site, regardless of what is in the preferences for start page.",major
+20493,[trees] lazily created tree row groups and rows need initial reflow,normal
+445044,no sound after several usages,major
+424387,getboundingclientrect / getclientrects don't return integers,normal
+432409,"folder drop down in bookmark contextual dialog doesn't use special icons (bookmarks toolbar, bookmarks menu, unsorted bookmarks)",normal
+203853,numbered lists get extra <br> inserted after <li> when using text decoration.,normal
+48094,cannot find url (modem issue),minor
+339217,insert should generate new id for xsd:id nodes,normal
+403771,patch to fix mingw build failure in nswindowsshellservice.cpp needs approval.,normal
+155473,"with no flash on os x, reloading this test page closes browser",critical
+155616,group_bit vs. bit,blocker
+326628,dialog for pkcs.deletemodule is too jargony,normal
+188615,"browser does not show parts of a frame, or behaves incorrectly",normal
+613595,speed up getelementsbytagname cache hits,normal
+315219,right-click on data pulls up both normal menu and java-based information window.,normal
+554450,when a unicode character can not be found the unicode number for it should be shown,normal
+585489,pages are loaded without the css file even after refresh,normal
+824563,[marketplace] can't go back to last page when logging persona,normal
+281308,renaming pop server may rename account-name,minor
+320655,history view changes should change sorting,normal
+538467,"valgrind: ""invalid read of size "" near xgetatomname(), below nsgtkremoteservice::startup",normal
+243423,it is not possible to search (ctrl+f) in textboxes,normal
+349909,return value of gettextatoffset is non-deterministic,normal
+77300,assertion: unable to use nl_langinfo(codeset): '',normal
+11433,crash: debug | xptoolkit | tree,critical
+257176,modifications on the file nptypes.h are needed to build mozilla/modules/plugin folder under beos,normal
+271217,mozilla firefox removes one quotationmark from the source,minor
+576169,use fill() instead of clip() for image painting in canvas,normal
+656534,"when tasks or calendar tab is open in lightning, composing an email & closing its tab doesn't send you back to inbox",normal
+27985,no directory listing on ftp://ftp.sunet.se,normal
+204574,add states supports in accessibility/atk,normal
+251259,"cannot login to ebay.de, amazon partner net",normal
+587103,jstypedarray.cpp fails to compile under aix/xlc due to template/static inline scoping,major
+276078,can't get saving window back,normal
+718580,crash nsexternalapphandler::openwithapplication,normal
+75041,delay loading charset dlls at startup,normal
+696444,unresponsive script adding spotify to facebook freezes firefox,normal
+633175,images don't always load on secondary search results page,normal
+823029,[connection screen] do something with the tab once toolbox is open,normal
+17349,apprunner crashes upon startup,normal
+171581,implement toolbar search/find in page,normal
+627231,inconsistent character encoding in different tabs when one of the tabs has been window.open'ed.,normal
+621844,firefox locks up when typing site address then crashes repeatedly,critical
+463827,choosing 'close tab' from context menu of last tab closes browser,minor
+97238,switch xpidl from nsareadablestring to const nsastring,normal
+259631,favicon of some common websites are not displayed,normal
+215197,plugin configuration ui shows plugins that don't exist,normal
+767479,crash in ns_stackwalk,normal
+442662,i can't open firefox  anytime.,critical
+580015,switch to tab should be smarter about switching to the current tab,normal
+673296,origin handling in eventsource is bogus,normal
+578245,jm: port method jit to x,normal
+289407,courier-imap: new mail headers of sub-folder are not displayed after checking for new mail,major
+86840,no flash game at http://quiz.spray.se,normal
+321200,ignores all settings at startup; extensions settings are also ignored,normal
+195401,page-break-after: avoid (css) does not work when page is printed,normal
+317935,"please do not hesitate to contact me.
+
+thanks < -----
+
+skypilot ©",normal
+46623,table created with composer .x doesn't lay out right,normal
+371135,oom crash [ @ gfximagesurface::gfximagesurface ],major
+508854,recently archived or filed saved search,normal
+205629,keys do not work at all,normal
+608472,bugzilla .. and redirection problems options,major
+750249,intermittent docshell/test/test_bug.html | test timed out.,normal
+334475,[trunk] blank display on gmail,major
+661962,"gcc . warning: ""nsiniparser.cpp::: warning: variable ‘rv’ set but not used""",normal
+164745,find in this page is disabled on certain web pages,normal
+331594,testcase for bug  has regressed again,normal
+11269,translate button doesn't go back up.,normal
+756893,test bug tracker,critical
+785620,bg ril: datacall.dns is null,normal
+470981,firefox crashes if the second time i try to print in a session,major
+450703,.rc:  duplicate key name 'fielddefs_name_idx' during installation,normal
+433584,move build/pgo/automation.py.in to build/,normal
+773063,"if drag & drop a tab out firefox to generate a new window, drag & dropped tab disappears in the tab bar of the new window.",normal
+505519,optimize row iteration in calcunpaginagedheight,normal
+275541,ctrl-t doesnt work while mouse is over a flash object,normal
+156768,[meta] buffy deliverables,normal
+3290,"button element retains visual focus after press, change of focus",normal
+100289,missing referer in http header,normal
+795353,firefox froze after saving an image to disk,normal
+612634,when script crashes and stopped tabs cannot be closed,normal
+63592,incomplete html-entities are translated; also in urls,normal
+373947,firefox doesn't support exec with args and is using deprecated gnomevfsmimeapplication interface and,major
+230461,"unwanted folders (sent, templates, drafts) should not be created again",normal
+806485,test-unexpected-fail | runtest.py | exited with code  during test run process-crash | bloattests | application crashed (minidump found),normal
+364657,js_get/setproperty()'s sprop local not gc safe.,normal
+516623,jsnum.cpp:: warning: integer overflow in expression,normal
+753874,"ff does not import ff. cookies, and sqlite .. cannot read ff cookies.sqlite",normal
+718072,weakmaps constructor doesn't always get initialized on the global object,normal
+542997,menu bar auto-hide stops the use of icon(s) placed on the menu bar,normal
+442331,makefile.ref creates a c-incompatible spidermonkey lib,normal
+414718,bookmark dragging doesn't order as it should.,normal
+472126,label does not act as an inlinish thing,normal
+42907,scrollbars display in the middle of the page,normal
+367599,session is forgotten if download manager is open when browser is closed and started,normal
+777310,crash in arena_dalloc [@ arena_dalloc | __wrap_free | moz_free | accevent::~accevent],critical
+524988,cannot view mail message when i use search message,major
+302594,can't drag xpis to firefox's dock icon,normal
+82826,reported imagemap coords wrong if middle-clicked,normal
+371641,"""images"" search button doesn't work",minor
+279506,document new options window,major
+315399,image is not displayed in svg file in some circumstances,normal
+220072,a lot of text is invisible,normal
+624119,"selected text starting as ""chrome://"" should be treated as a url.",minor
+734016,navigator.mozapps.install on success handler,normal
+545416,auto-complete not based on usage,normal
+622056,avira virus warning on attempting download of latest . thunderbird,normal
+516275,error in details is returned on .. & . on wk .. no problem with ie or winxp,normal
+503660,firefox not support in ajax,major
+763242,fix freetype detection on non x linux builds,normal
+435885,entrycompletion popup not working properly,normal
+581673,saving web pages or files with wrong date,normal
+347639,dynamically created flash with application/octet-stream show up as plugin placeholder,normal
+249362,"following message on startup or attempt to access any url ""the connection was refused when attempting to contact <***name of site***>""",major
+398036,add file in use install support,normal
+447642,"get rid of --disable-mochitest, replace moz_mochitest with enable_tests",normal
+234057,external style sheet not loading when internal styles present on published strict html . page that loads and renders fine locally. css file is in the same folder as the page and the style sheet link is relative.,major
+804912,"intermittent test_protocolproxyservice.js | test failed (with xpcshell return code: ), | ... != ... - see following stack",normal
+418453,"column headers do not sort, but infinate loop on onclick",normal
+25077,page does not fully load on the first try (charset dectector problem?),normal
+289880,site history in address box does not appear when clicking down arrow,minor
+784437,"in windows  x, thunderbird , selecting view > folders > unified is ignored, defaults to all",normal
+742561,ionmonkey: inline allocation for jsop_newobject.,normal
+684350,"browser displays ""scanning for viruses"" message even though no antivirus is installed on the machine.",normal
+580821,search doesn't include alt text that is displayed,normal
+242571,eliminate dist\thunderbird packaging step,normal
+670915,make package fails for leak test builds for windows -bit builds,critical
+316107,page with flash incorrectly shown,normal
+619760,"in windows xp, select compatibility mode, select windows  for firefox ... then the program closes firefox and there is a critical error.",critical
+41957,[tracker] page renders incorrectly,normal
+196861,strikethrough tag tests does not print the expected result,normal
+451945,rationalresponders.com crashes ff ... (win) & ff .. (linux),normal
+73727,keyboard focus on location bar w/o window manager running,normal
+380389,not able to send email after restart,normal
+507095,it's easy hanging the desktop if there are orca screen reader and firefox.. running together.,critical
+313325,"just migrated from oe : the progress box says something like ""importing the following items"" - but there is no following text!",normal
+7452,find and rfind does not work if aignorecase is pr_true,blocker
+718141,"friends are sending emails with ""emoticons"" in them. thunderbird already be able to handle them and display them.",normal
+4269,relative urls do not work in nswebshell::loadurl(),normal
+661622,"confusing button in attachment checker when ""send later"" is chosen.",normal
+368227,nsvoidarray.h doesnt need to include nsstringglue.h,normal
+638631,browser crashes on corrupt jpeg & png,critical
+402828,alternative smtp server is not tried if the default refuses the send request,normal
+239567,unable to delete certificate authorities.,normal
+724862,implement protocol support for modifying the values of a debuggee object's properties,normal
+489450,implement -silent command line flag for thunderbird,normal
+175842,incorrect window handle for events related to a new document being ready,normal
+425182,ok button in alert() dialogbox is not visible for long strings,normal
+78345,<br> after </li> but before </ol> should still belong to <li> tag,minor
+670104,a modified searchplugin xml file does not get updated immediately after restarting nightly,normal
+802066,page not found,normal
+538060,nanojit: improve -bit loads and stores in the x back-end,normal
+638694,alert dialogs are transparent in latest nightly,major
+216659,bookmark  schedule doesn't warn if a page changed,major
+234359,-remote does not work,major
+253218,a number of problems when a disabled textarea is interfaced via the dom,normal
+681387,caretpositionfrompoint seems to return different offset as what the selection offset is,normal
+655580,firefox box-shadow css property doesn't behave the same as chrome and opera.,normal
+35023,double-click select doesn't select by words,minor
+703178,build warnings in security/manager/ssl/src/ [-wunused-but-set-variable],normal
+607285,property page is showing black block,normal
+673171,"in js::interpret, check_interrupt_handler must be called when the value of 'script' changes",normal
+565841,optimize js_concatstrings() when building large strings from small pieces,normal
+784004,don't include layers.h everywhere part ,normal
+184697,crash on xml that uses a namespace that's not declared,normal
+302553,"enabled ""cookie warning"" option on pref bar does not stick window-to-window or session-to-sesson",normal
+608956,enabling methodjit in chrome regresses ts and tshutdown,normal
+417423,"firefox crashes on restart after installation of google gears ext. after recent firefox update, gears appears to be installed but does not work.",normal
+785094,"""assertion failure: ptrdiff_t(column) + colspan >= ,""",critical
+60152,cursor missing after pressing the spacebar in composer,normal
+40763,"""overscrolling"" when selecting text down to bottom with mouse",normal
+65747,"<input type=""image""> works only if the image can be loaded",normal
+43732,layout of page changes with each character entered,normal
+67514,occasional space bar and arrow key anomalies in form widgets,normal
+662822,clarify behavior when evaluateinframe introduces new variables,normal
+480325,usability: awesomebar should not remember links that led to a ,minor
+370244,fullscreen on linux always put browser on main screen,normal
+435551,hidden iframe is not recognized,normal
+90529,crash on this url after making selection from the drop-down list and going back ,normal
+2294,[pp] crash loading any url,normal
+153154,does not handle flash - produce method not implemented message,major
+542203,"ff crashes when using google search and ""escaeping"" search entry",critical
+33490,[trk] (dom core) domexception,normal
+445961,allign center problem with ctrl+tab plugin and multi monitor setup,normal
+323535,customizing 'text' does not work properly in all cases,normal
+391050,clipboard access for a webpage,major
+43741,"document.open() overwrites in mozilla, inserts in ns and ie",normal
+470667,memory release failure,minor
+22467,mozilla freezes on slashdot's read more,critical
+726110,incorrect screenx and screeny coordinates for contextmenu events in some cases,normal
+279618,bookmarks truncated when windows xp does disk repair,critical
+407611,"bookmarks created as children of the ""all bookmarks"" folder do not appear in the ""recently bookmarked"" query",normal
+506921,pdf printer does not retain text attributes,major
+504092,changing font size of :first-letter psuedo-selector changes width of display: inline-block element,minor
+536947,"""open link in new window"" not working",major
+821017,firefox not overriding page fonts for certain sites,normal
+505513,"changing from firefox . to ., some pages don't work",critical
+116880,middle dot character is not displayed in shift_jis,normal
+370926,incorrect mail sent when unsetting requestee on review request,normal
+248232,winstripe theme incorrectly positions single tab,normal
+381153,crash [@ nssliderframe::setcurrentpositioninternal],normal
+8271,change replace & delete file list to use unique keys,normal
+761256,disable mac ay in aurora ,normal
+39426,the spellchecker is not being recognized as present (missing),normal
+377837,"to, cc, sender, from, reply-to often have no value or name in msaa",normal
+544017,compile errors when debug_ay is defined.,normal
+740595,"""assertion failure: [infer failure] missing type pushed :""",critical
+482798,tabs open in new window randomly if right mouse button is pressed.,minor
+429849,"marquee text not on one line , part of this line on top and second bar on bottom",normal
+213571,mozilla__a_release tag needed for ..,major
+237918,installer build throws javascript error on file->import and import dialog does not function,normal
+808863,"notification panels show ""show all *"" but are lacking content (messages/friend requests/updates)",blocker
+427352,please promote application/xhtml+xml to first position in the accept: header,normal
+412503,release/news announcement for ..,blocker
+396803,repainting issues in os x builds with close buttons and scroll bars,normal
+505895,page flickers multiple times on page load,normal
+78010,implement nsiclipboardhelper,minor
+325673,sort-order of search-engines,normal
+344563,"fav icons for pages that are images don't always show (can be blank or ""garbage"" until mouse over)",normal
+358979,setcaretoffset doesn't return false if it cannot set the caret offset,normal
+359636,table width % collapses to minimum after javascript change to display or visibility,minor
+451412,walk_tree has missing expressions in cond_expr when using the cfg tree,normal
+61516,no document.body,normal
+130536,empty password for anonymous ftp does not work.,normal
+217305,pkcs # backup fails with danish names containg the letter 'ø',major
+294236,going back two sites crashes (fastback enabled) [@ nsdocshell::restorepresentation],critical
+478684,test_play.html fails intermittently,normal
+682296,"history api throws ns_unexpected-error when used from addons, scratchpad and web console",normal
+327989,focus() in input field during onblur or onchange not working,normal
+488549,runtime error crash with mp,normal
+353726,odd behavior when session restore fires after an extension install,normal
+348835,hidden input fields value being changed on submit of a page.,major
+389042,drop down number for results list is not remembered,normal
+610644,test,normal
+359593,"with  or more tabs open, the close tab symbols disappear on all but the active tab",normal
+265494,the location bar seems to disappear when you click on certain links.,major
+588142,crash in  [@ compilebranch ],critical
+616665,freezing in .. with tabs,critical
+96797,e-mail me a password,normal
+570911,webm (vp) landing broke pymake at running of yasmmasm-as.sh,minor
+431024,default size of the search bar in the main window should follow the golden ratio,normal
+316636,crash [@ nsrect::nsrect(const nsrect & {...}) line ],major
+723518,firefox .a crash [@ nspluginhost::instantiateembeddedplugin ],critical
+131957,soap schema calls fail / schema missing from packager.,normal
+287395,setting a div innertext improperly interprets text as html,minor
+769937,error on close: earlybird has stopped working,normal
+427321,"unplug the nic, leave firefox unclosed, after one night, firefox crashes and the virtual memory reaches .g!",critical
+767997,personal bookmark toolbar text rendering errors,normal
+364708,bookmark import from internet explorer ,major
+86126,"page content displayed incorrectly, some missing.",major
+569844,end of drag automatically selects tab group,normal
+490825,new mail notification loops on one account when multiple accounts have new messages,normal
+221785,"need a ""remove""(or ""delete"") in contextmenu on about:config.",normal
+23154,no interpretation of font-tags for a-tags in a list,normal
+22033,no directory listing on these ftp sites,normal
+6518,crash loading xml file,critical
+508535,stop private browsing keyboard shortcut stops workin after watching youtube fullscreen video,minor
+422068,"all toolbar icons are permanently grayed out, not even a simple refresh is possible",major
+297282,"i am unable to open a ""browse file"" button using javascript code",normal
+30635,crash downloading a file with ftp,major
+684527,make sure that new gc things are not allocated from finalizers.,normal
+472923,bookmark contextual dialog is persisting after dismissal,normal
+460476,including or excluding an email address in get mail,minor
+411021,thunderbird doesn't use the displayname attribute with ldap addressbooks.,normal
+362224,ship pending locales for firefox ...,normal
+169834,textmode buttons need hover/active state,normal
+49265,font paragraph pull down does not reflect current section after a heading,normal
+356413,<grid> should not give itself a max-width of zero in this case,normal
+298026,"tipbar extension installs just fine, but then causes !doctype overlay system ""chrome... bug",major
+805694,"attempts to use the parent side of an ipc channel to obtain an app id, private browsing status, will fail after onstoprequest",normal
+559764,"make <input type=""range""> accessible",normal
+468829,certain pages don't show a vertical scrollbar after resizing under a certain width,normal
+194329,crash in sinkcontext::addcomment,critical
+293661,problems migrating from trunk build back to .. candidate,normal
+103086,xsl:sort 'ing null,normal
+77366,"mozilla doesn't print text in <input type=""text"">-fields",minor
+404430,mozilla gets hanged,normal
+527646,tree/test_menu.xul fails on linux,normal
+403270,"""warning: invalid font"" with &#;",minor
+491316,rfe allow users that can add keywords to bugs to be able to enter them at bug creation,normal
+583700,"""setattribute is not a function"" error in javascript",normal
+247661,get mail button don't work,normal
+366877,generated microsummaries updated against page loaded into tab even if page is stale,normal
+748864,"""new mail"" tray icon does not automatically disappear when all messages are read",normal
+194397,hotspots in a picture (defined by dreamweaver) not recognized,normal
+133274,[freetype] sometime hard to distinguish bold and normal fonts,normal
+418700,can't delete a smart bookmark from right click context menu,normal
+354441,pkcs# api c_finalize()/c_closeallsessions() are not called upon quitting from seamonkey browser.,normal
+19188,should be able to move windows off top of screen,normal
+519958,glodafacetview date display in / ln error,normal
+460655,##!!! assertion: opener must support weak references!: 'mopener',normal
+523359,"clicking ""use current page"" to set the home page should set ""show my home page (when firefox starts)""",normal
+83511,atomkey wastes time refcounting atoms,major
+358585,spell checker in designmode is flaky,normal
+359559,"fierfox thinks webpage is ""application/octet-stream,"" wants to save it",normal
+425458,made treehydra and dehydra make use of js prototypes,normal
+363219,"redefined indexof exposes scrollbar objects to script, can cause dos or maybe worse",critical
+421991,places organizer (library) calendar should specify foreground color,normal
+278696,dosent work firefox browser,critical
+440657,pressing alt while plugin focused causes weird behaviour,normal
+678484,xpt output with a python version regressions,minor
+323034,[opensolaris] there is no option in firefox to use system proxy settings,minor
+564337,make window.showmodaldialog tab-modal,normal
+494035,loading ogg file causes browser to grow memory footprint to several gig,normal
+254846,"file - print preview, when press key f to reload, window preview not close, bottom close not good.",critical
+28068,every caret blink creates a new graphics context,normal
+624407,new tab opens even after closing the tabgroup,normal
+261945,browser.tabs.opentabfor.windowopen doesn't work and alot other browser. problem,normal
+228648,immediate crash on startup on windows ( nightly),critical
+24259,_xpidlgen dirs not (necessarily?) removed in cleansrcdir step,normal
+737029,wifi: use domrequesthelper.jsm in domwifimanager.js,normal
+614356,default to next action hint for form inputs,normal
+3825,caret does not draw immediately on mouse click,normal
+300297,transparent dependent xul window opened from chrome causes browser window to be redraw as transparent window in deer park,normal
+56154,"nspluginsdir{win,unix} must use nsifile instead of nsfilespec",normal
+562152,remove typedef linsp,normal
+356719,positioning java-menu is not consequent,normal
+760226,remove unneeded eglcontext creation in glcontroller.java,normal
+428519,back button icon disappear when activated (on new profile),minor
+520159,when trying to reply from the full-text search result messages i got an error message,normal
+237244,"""try again"" on xul error pages does not repost form data",normal
+818685,can't build under ms vc with bug ,blocker
+282056,"when clicking on inbox,  thunderbird stalls, hard disk light is flashing. it goes on for about minute, then finally messages are displayed",critical
+76039,getelementbyid returns null when document loaded by nsidomparser,normal
+173166,vrowser crashes after closing with 'x' while viewing cult d content,normal
+371900,xul <key> handling doesn't fire a command event if @oncommand is missed,normal
+7977,the background image appears and disappears...,normal
+233198,"when junk mail is moved by other than thunderbird, thunderbird forgets it's junk",minor
+180023,columns reordered in trees,normal
+135059,allow contentstateschanged() to work without necessarily creating a frame,normal
+301260,xmlserializer gives inaccurate results,normal
+378942,restore ability to pass in a url at the command line and have it load in the start page,normal
+35657,collapse grippies showing up in odd places,normal
+800684,rasterimage's destructor seems to be very expensive,normal
+24286,browser doesn't entirely repaint,normal
+116468,border in default background color around page content,normal
+604772,tab dragging off the visible part of the tabstrip works only if your mouse is over the scroll arrow; drop indicator gets in the way,normal
+171735,bad icons,normal
+310679,popup windows is not blocked but firefox tells the opposite,normal
+215640,url not printed for web page after printing email or news message,normal
+63323,nsdocshelltreeowner::onsecuritychange isn't implemented,normal
+94895,flash movie is constantly stopped and restarted,normal
+387991,sending form data broken,normal
+743071,ionmonkey: crash [@ js::types::typeset::baseflags],major
+43280,no plugin downloader plugin!,minor
+463445,nsprivatebrowsingservice.removedatafromdomain might throw if the user cancels the master password prompt,normal
+156469,page up/down conflicts with cursor up/down,minor
+485988,tm: abort/bail on objects shared across threads,normal
+87814,browser crashes when doesn't have appropriate permissions for /dev/dsp,critical
+368222,crash when loading a specific java applet.,normal
+627942,"xmlhttprequest::setrequestheader(""user-agent"", ...) fails to override internal firefox user-agent string",major
+591651,csshtmltree should avoid hacking innerhtml,normal
+428794,doesn't start,critical
+168513,enigmail crashing the browser [@ nshttpconnection::~nshttpconnection],critical
+614918,"on solaris , /bin/sh doesn't understand ""export ldap_component=mozldap""",normal
+724345,start menu appears on closing ctrl tab panel with the escape key,normal
+20781,[dogfood]text fields paste twice,major
+110766,hebrew implicit coding (logical - iso--i) is not shown correctly ,major
+634551,cocoa's progress bar widget shouldn't have a max size,normal
+780145,archivereader doesn't unzip large files,normal
+180833,pending attachment flag migration not working,normal
+450028,clicking/activating first two tab widgets in a tab menu by turns makes rightmost tab border jump,minor
+550725,firefox becomes unresponsive with requestpolicy enabled on a certain page,major
+304391,improve xmlhttp logging for warnings,minor
+681171,intermittent indexeddb/test/browser_forgetthissite.js | application timed out after  seconds with no output,normal
+623234,[winnt .] mochitests-: test_selection_underline.html outputs  over-long log line,minor
+130432,all mozilla windows appear in same virtual desktop when using goscreen,normal
+718809,getboundingclientrect returns incorrect results for certain d transforms,minor
+470795,"tm: correctness bug due to tracing inside ""with"" and shadowing after trace is recorded",normal
+293802,"exception... ""component returned failure code: x (ns_error_file_name_too_long)",normal
+312278,access of gc-ed object in array.prototype.tosource,major
+43811,table jolts and moves when form button pressed and with dynamic javascript,normal
+270574,displays html,normal
+77950,form corrupted,critical
+41576,mozilla crashes with segmentation fault when menu options are clicked,major
+277315,message drag rectangles are positioned wrong,minor
+753852,intermittent crash in dom/base/crashtests/-.html | exited with code - during test run [@ blockingresourcebase::checkacquire],normal
+790857,fallback to planarycbcrimage if we could not allocate grallocplanarycbcrimage,normal
+192659,opening new tab or new browser window creates the same session-id cookie,normal
+366940,tools>options>content>file types>manage is completely blank won't allow me to update it,major
+487158,update mozilla-.. to pick up nspr ..,normal
+765698,"update to firefox freezes, no longer works at all",normal
+691885,deleted mail from inbox does not appear in trash,normal
+820228,memory leakage in mochitest while firing touch start event without a corresponding touch end event,normal
+348401,[rfe] add a 'remove from recent' context menu item for folders in the folder pane,normal
+490679,clear recent history dialog refresh follow-up,normal
+261715,alt+click sometimes focuses menubar (keyrepeated alt shouldn't trigger menubar focusing behavior),minor
+377395,remove .doubleclick.net from network.dns.ipvonlydomains,minor
+585163,[dd] test-unexpected-fail | svg/text-scale-.svg,normal
+51101,radio button dots don't disappear when unselected,normal
+126464,"spellcheck change/change all on mispelled links, loses link(s)",normal
+781086,horizontal scrollbar appears when not expected,normal
+506590,"go  to ebay, log in (takes several ""try again"". goto my ebay messages - won't ever get there!",normal
+684662,js\src\methodjit/methodjit.h() : warning c: 'argument' : truncation from 'js::maybeconstruct' to 'bool',normal
+457962,tm: move cmov_available setting into nj backends where appropriate,normal
+455399,"works great in ., but in the .. im using logmein will crash the session and require a restart of firefox, does it right away sometimes, and others it will work for hours.",normal
+364746,installing thunderbird upgrade ... deleted files.,critical
+756819,use dom::element for the result of getelementparent,normal
+770215,[os.file] utilities for strings,normal
+566170,firefox freeze whole system on opening some sites,critical
+275336,value of submit buttons doesn't get post'ed.,normal
+416036,"###!!! assertion: oops!  you're asking for a weak reference to an object that doesn't support that.: 'factoryptr', file nsweakreference.cpp,",normal
+798165,purple buffer support for nstimeout,normal
+704817,crash in nslocalfile::copymove,critical
+491053,tm: dromaeo sunspider-date-format-xparb regression,normal
+812517,[gaia::browser][perf] rendering of webpages creates jiggly/snapping effect when scrolling,normal
+610335,"window buttons (maximize, minimize & close) are painted wrong when the menu bar is hidden",normal
+552055,"cannot send email trought ssl (gmail, yahoo, etc...) that use ssl",normal
+512866,mutable flag isn't clear on vc++ x,normal
+301495,"screen readers should treat xul content as an application, not a document",normal
+190132,clicking on link in gopher returns blank page/frozen download,major
+470041,object.prototype.__definesetter__ allows object constructor to access remote objects,normal
+645435,firefox hangs when right-click local file in open file dialog.,critical
+236495,last button in menu page of html frame always out of alignment with rest of buttons,normal
+328368,nsidomsvgsvgelement's getcurrenttime method is overridden by windows macro,normal
+786713,<font> tag within option element causes nothing to display in drop down menu.,normal
+548200,potential overflow in nsicanvasrenderingcontextwebgl_texsubimaged,normal
+540560,[@ ieframe.dll@xa] common crash caused by paypalfirefoxplugin@orbiscom,critical
+328346,certificates with keyusage nonrepudiation should not be used as ssl client certificates,normal
+358296,options > choose download folder  > close using top left hand menu crashes firefox.,major
+154719,css ids and classes not applying in xslt stylesheet,normal
+279106,should not open folders with default application (gnome .),normal
+760977,first pinned tab may not restore correctly,normal
+630347,cpu spike on mouse over in about:home,normal
+111095,browser does not understand what to do with web page,normal
+366619,move nsautolock and nsautomonitor to the glue,normal
+528364,switching between tab previews inside the all tabs panel moves them slightly up/down by px,normal
+79812,"some gb characters are dispaly as ""?"" in this page",normal
+170390,submit button doesn't work for attachments,minor
+474237,svg zoom very limitted,normal
+399471,find as you type bar appears when triggered but accepts no input,normal
+494883,major wordpress bug in shiretoko,critical
+377833,nested svg and xul elements cause crash.,major
+250082,"tabbing through alert dialog broken (""alert me whenever i submit information that is not encrypted"")",normal
+821269,fix build warnings in accessible/src/html,normal
+329706,install.rdf should be re-visited before launch,normal
+574942,firefox does not load on desktop after definition update from windows defender,normal
+646333,video constants should all consistently be either #define or const t,normal
+301023,alt text is not displayed when cursor is moved over images,normal
+72948,use os not platform when giving bug summary,minor
+407858,uninitialized data in nsurlclassifierdbserviceworker,normal
+267165,input type=text accepts multiline input when pasting,minor
+787774,builds broken with --system-nspr,normal
+284666,no aparecen graficos en los reportes. gd,critical
+222072,scrollbar missing in many themes even after restart,normal
+372768,setting nowrap attribute dynamically does not change layout like it should,minor
+325095,randomly crashes importing mailboxes from eudora .,critical
+340318,whenever you go to gmail.com the redirects on gmail makes firefox freeze then crash,critical
+703692,source editor: add support for the focus/blur events,normal
+349103,new theme lacks padding at right edge of bookmarks toolbar,normal
+628764,sometimes zooming out of a tab does not properly set initial css state.,normal
+102376,crash when trying to view source of google.com,critical
+612402,firefox .bpre crash in [@ nscookieservice::ensurereaddomain ],critical
+318512,help document is not opening,critical
+364958,"if user does not have a real name, just e-mail address should be displayed instead of "" <user@email.tld>""",normal
+303019,incorrect handling of nested html open comments (<!--).,normal
+142264,right clicking on flash crashes sometimes mozilla,critical
+140781,there should be a getquerylist for the templates,normal
+156467,attempting to create new bug with bogus email address (e.g. 'cc:') gives a red failure box and creates the database entry,normal
+335337,a:hover ignored if it precedes a:visited in the external css,normal
+498270,sometimes my google search text box disappears in google.com website,normal
+26571,crash at changing character set menu to korean(euc-kr),major
+300776,random crashes after installing flash player  beta on latest dpa builds.,critical
+347309,building with --enable-leaky on ppc fails,normal
+655979,google 'search' button doesn't work when search field contains 'click' word.,normal
+239438,"remove advanced javascript pref ""change images""",normal
+269660,plain text attachments are being sent inline,normal
+49650,up/down arrow keys selects items in menu and dropdown simultaneously,normal
+180110,"after a ""connection refused"" error, the url of the site tried to be reached is displayed in the address bar and not  the url of the current page",normal
+414472,searchicons.png should have transparent background,normal
+293669,"e*trade pages are missing info such as buttons, data entry fields, and graphics - works fine w/ie.",critical
+657598,gcli needs browser run tests in addition to internal unit tests,normal
+243250,reduce size of nsstandardurl,normal
+158473,high cpu usage (%) at this page,critical
+394003,really slow javascript (?) animation,normal
+86842,href attribute being interpreted in xml document,normal
+701212,"get rid of ""browser"" sub-folder in browser/themes/*stripe/",normal
+288905,the iframe beachballs the browser,blocker
+722552,remove xul panel for html tree from browser.xul,normal
+297982,spawning of numerous blank tabs and new windows when opening c source,critical
+501529,not working in windows on final release,critical
+776957,omtc: remove unnecessary frame copies with canvas and layers acceleration,normal
+312277,mozilla doesn't hide dot-files in file:// scheme,normal
+406735,ts / txul regression from bug #,normal
+933,ordered list marker - lower roman is not displayed correctly,normal
+358634,enter or go need to be hit in order to be taken to a url selected from the drop down location bar,normal
+617516,cyclic __proto__ value is possible for window,critical
+423607,after cairo update font matrix skews reverse direction,normal
+630446,having the bookmarks sidebar open affects speed of web page rendering,normal
+417988,thai language cannot be displayed on the title bar,normal
+810219,login page:error ..when ever a newuser saves a button,normal
+599588,script tags no longer work when applied via innerhtml,normal
+651202,thunderbird does not close - % after user switch / suspend,critical
+604504,"consolidate eval functionality into a single utility function, and use that directly from jsop_eval",normal
+338815,"after opening a multipart jpeg url and loading another url in the same tab, the stream is not closed by mozilla core",normal
+798323,peer connections are leaking a lot of threads which also cause a crash on shutdown,critical
+91351,app size reduction issues,normal
+585036,can't collapse and expanded facet search group,minor
+453728,tm: can't trace reading .prototype,normal
+430781,scrolling by up/down/pagedn/pageup keys sometimes stops working,normal
+360998,convert wc dom suite to mochikit,normal
+657594,gcli should be usable with no hint layer - just the command line,normal
+451527,add a strong type convention for mingw build,normal
+619558,meta: implement generational garbage collection,normal
+368259,###!!! assertion: frame shouldn't be in reflow yet: '!(frame->getstatebits() & ns_frame_in_reflow)',normal
+463803,crash [@ memcpy],critical
+717526,a lot of warning on nsstringapi.h on win,normal
+582873,location bar no longer works after upgrade,major
+102161,assigning duplicates should verify priority,normal
+774059,fimagetargettexturedoes readded to gllibraryegl after being moved to glcontext and renamed to fimagetargettextured,normal
+617327,java plug-in is not working properly,normal
+473538,"window.open: if toolbar=yes, show the personal toolbar as well",normal
+99804,browser crashes upon page load ,critical
+178508,alert(); in my js-sourcecode shows no effect;,major
+302418,re-enable sendmail support for windows,normal
+196512,phoenix crashes on startup,critical
+440264,error encoding of url query string when changing the innerhtml from javascript function,normal
+436799,"add help menu (and mac window menu) to ""view source"" windows",normal
+160828,dynamic html failure.,major
+147490,replicated tags that invert other tags consistently repeated in edited html files,normal
+518614,empty folders show up when i cycle between folder pane states.,normal
+48942,build ----m secue page freeze ups,critical
+244950,"font verdana, hang during printing",normal
+701431,"my email attachments are disappearing but when i log in to check my email they are showing up. if i forward the message the attachment is still there. this started with new version  update, and not only on my computer.",normal
+713048,html manifest and ajax problem,normal
+791421,windows xp doesn't detect stable after installing nightly,normal
+4801,umr: nslinelayout::reflowframe(),normal
+229288,text zoom out doesn't work with some fonts or styles,normal
+110259,cann't create an attachment,blocker
+288576,horizontal scrollbar added to div,normal
+28513,one-form of adddirectory() is not supported. install aborts w/ - error,normal
+46167,page displayed incorectly (and displayed a second time when you scroll down),normal
+531349,popup window,normal
+276531,caret visible (blinking) in the url bar though it doesn't have the focus,normal
+431191,resizing main window doesn't seem to resize bookmarks toolbar,minor
+657478,"in problem, different string after reopening application",normal
+475493,html <q> does not participate correctly in text selections,normal
+358784,need group_by_date and group_by_date_and_site for history sidebar,normal
+198266,div contents do not fit and spill out,major
+652991,svg path fill rendering can break after window.history.pushstate,normal
+483430,when forwarding an email with photos or action photos email does not show photos.,normal
+495328,assertion: getprimaryframefor() called while nsframemanager is being destroyed!,normal
+75485,redirect from http: to https: page not recognized as secure,normal
+266345,"request  when launching product from the installer, it should launch in profilemanager mode",normal
+103508,area with smilies on the webpage is a lot bigger than it should be,normal
+593577,get rid of nscontenttype,normal
+767673,windows media player plugin run when after click other tab,normal
+575081,new firefox version does not recognise bank id even when i reinstall it.,major
+46409,[x] mozilla won't start: requires x shutdown,critical
+573716,reconsider whether smil sandwich layers should override lower layers if they fail to compose,normal
+680020,"error: uncaught exception: [exception... ""prompt aborted by user""  nsresult: ""x (ns_error_not_available)""  location: ""js frame :: resource:///components/nsprompter.js :: opentabprompt :: line ""  data: no]",normal
+2472,parsing comments,normal
+146589,adobe website illustrates problem with interpretation of line spacing,normal
+58334,animated gif rendering is slow and affects mouse movement,major
+740813,tabbing to a design mode frame focuses its document element,normal
+639490,remove nshtmlinputelement::getnameifexists,normal
+205025,ipc build throws things in static build that it shouldn't,normal
+126503,moz-generted postscript won't print on hp laserjet,normal
+285386,xul checkboxes with no label attribute still have an empty label area in windows,normal
+366862,table column alignment ignored (col align),normal
+354042,bookmarks disappeared,critical
+313194,two-finger scrolling in firefox stops after accessing certain webpages,normal
+699923,in certificate manager indicate when certs are actively distrusted,normal
+255116,shift+delete to delete autocomplete entries is still active after editing commands,normal
+753018,session lost and incomplete blank window on startup,normal
+645750,nscssparser.cpp::: warning: unused variable ‘variantmask’  (also ‘table’),normal
+464051,"typing words into location bar and hitting enter no longer delivers the ""i'm feeling lucky"" google result",minor
+133919,printing with ctrl+p causes reboot (mozilla..),normal
+223166,[@ js_valuetonumber],normal
+824308,intermittent leak of  global about:blank windows,normal
+66163,implement generic masking for textfields,normal
+661742,allow navigating back/forward in content tabs,major
+290850,build_id uses $(shell) poorly,normal
+111938,wrong usage of getservice in pref-masterpass.js,normal
+203795,bugzilla does not accept many valid email addresses,normal
+795637,intermittent test_focus.xul | exited with code  during test run,normal
+350498,"left mouseclick on ""view the flight schedule"" - the pop up window is way too small to see it!",major
+64931,negative colspans are returned from table cells,major
+459273,wince explore whether app activate messages are received,normal
+650520,video downloader get corrupted,major
+30349,netscape activation page comes up different sizes when errors are encountered,normal
+493443,should transition to have_current_data whenever ogg frame queue is empty,normal
+514897,"suddenly will not stay open-shuts  down / crashes at once as soon as i 'open"" it!",critical
+653649,kill nsiframe::getadditionalchildlistname,normal
+98193,can't trust a ca,normal
+432457,"page does not display correctly (rating stars appear as boxes, or red instead of yellow)",normal
+631356,set an attribute on monochrome toolbars to make life easier for extensions,normal
+282273,selection problem after deleting message,minor
+557646,firefox updater triggers uac prompt without warning,normal
+368289,"assertion: expected only one call!: '!gcallcount++', file xptiinterfaceinfomanager.cpp, line "") at nsdebugimpl.cpp:",normal
+257427,opening filepicker without first appending a filter crashes,critical
+418866,turn on profile-guided optimization on fx-linux-tbox,normal
+439178,"pop up window saying information is not available, but continues on.",normal
+291779,flicker in address bar after using firefox for a while (>  min),normal
+277534,"crashed while trying to access the ""help"" url from thunderbird.",critical
+474150,can't search for a substring/regexp on a keyword,normal
+632861,"right hand side pull down "" v "" on toolbar with the < > errors",normal
+27270,can't log into bugsplat,normal
+625123,"crash [@ moz_free] called from jsclasssweeper during exit, double delete",critical
+58510,browser.cache.disk.enable is initialized from random value if,normal
+561818,[oopp] ipc severely degrades mouse responsiveness with windowless flash video,normal
+558549,[oopp] plugin container process name should include mozilla product name,normal
+681651,move highlighter's treepanel associated code to browser/devtools,normal
+323910,merge gklayout atom lists,normal
+631725,cannot change user review pages since firefox  beta ,major
+404002,browser crashes when clicking on a new link.,normal
+364749,my log in page won't open now that i have updated firefox on my imac.,normal
+203596,memory leak of  bytes from  block allocated in framemanager::cantrenderreplacedelement,normal
+36931,cant scroll in pulldown menu,normal
+22197,"error on initial startup, might be an installer issue",normal
+333940,icelandic letters wrongly displayed when icelandic on the top of the language list in international preferences,major
+427559,gmail keyboard commands don't work after switching tabs without reclicking the page,normal
+635346,"crash [@ nsaccessnode::getcontent] setting ""for"" attribute on <body>",critical
+408135,nscssruleprocessor::getrulecascade does unnecessary array churning,normal
+590831,enable directwrite by default,normal
+133978,flash ads continue to be animated even when window obscured,normal
+671527,alert() from inside gmsgcompose state listener sucks cpu,normal
+146158,url produces high load - makes mozilla very slow,normal
+138908,double clicking text selection not standard,normal
+288584,need a startup screen when firefox is started..,normal
+344068,very slow after recent update,critical
+428826,firefox  crashes,critical
+745141,"crash in imgrequestproxy::ondiscard with abort message: ""main-thread-only object used off the main thread""",critical
+817389,show contacts groups for xmpp,normal
+122809,mismatched allocator/deallocator tonewcstring & delete[],normal
+814562,implement clear() on weakmaps,normal
+193901,file:// links won't open,major
+606165,javascript stopped working after update to ?..,major
+102996,nslocalfile::parseurl leaks,normal
+342120,"content doubling, ""assertion: deletingframesubtree on a special frame."" with :first-letter and block-in-inline",normal
+506491,download manager opens 'blank' - intermittant,major
+507695,remove unneeded #includes from nsstylecontext.cpp,minor
+445936,pc takes up to  min to login from stand by if firefox was loaded before standby,normal
+712677,new versions of firefox and addon compatibility,normal
+3134,nshttpurlimpl::equals() doesn't handle trailing '/',normal
+218295,"table width too tight : contained elements don't fit. ""refresh"" fixes the problem, sometimes causes it!",normal
+612160,profile not recognized,major
+57996,dom node method clonenode() does not work on html document nodes,normal
+283481,ifilm superbowl ads don't play in os x firefox,normal
+16415,back/forward not functional,blocker
+56386,javascript in this html crashes the browser.,normal
+711662,get rid of the do-while() in parser::letstatement,normal
+330795,fonts and character encoding settings are very buggy...,major
+680704,click on menu does not work,minor
+478556,inbox won't open,normal
+234197,alert() called without an argument throws an exception,normal
+722986,webcontentconverter uses global private browsing state to make decisions,normal
+201233,editor commands should accept utf strings in state_ attribute,normal
+33332,monitor screen went dead when clicking a web page button-very serious.,critical
+702413,glcontextcgl::resizeoffscreen leaks buffer if resizeoffscreenfbo fails,normal
+1420,opening a local file with an image crashes,critical
+122201,access keys on commands don't work in submenus,normal
+80454,crashes on broken link with guidescope proxy,normal
+555337,we seem to capture tab previews regardless of whether we need them or not,normal
+17513,dialogs that popup modal dialogs don't close correctly,normal
+149307,some popup windows do not render in ppembed,normal
+204831,float absorbs clearing element's top margin,normal
+138246,load of page intermittently stuck on: sending request to w.ibm.com...,minor
+448939,xulbrowserwindow cleanup,normal
+398100,"misspelled name in about:license (""bënzli"" instead of ""bünzli"")",normal
+530465,"when using css width with ex/em units, textarea element is shown shorter then expected",normal
+779462,use device instead of fennec prefixes in fennec browser actors,normal
+95561,"buglist.cgi has an inner join, not supported in mysql ..",critical
+764706,unused variable in nstoolkitprofileservice.cpp,normal
+753473,the inspector html and style tab should be unfolded by default (optional),normal
+423525,"default print font size is often too large in ff b, and much larger than fonts appear on screen",normal
+85355,xpcwrappednative::tostring should sometimes yield '[object foo]',normal
+403348,dtrace js_calltime.d output omits nscontentprefservice interface methods,normal
+629472,"parts of windowless, transparent plugins not repainted correctly",normal
+177372,phoenix crashes,normal
+24405,"page printing huge, text gets cut off",major
+496580,make check in js/src should run the js test suite,normal
+787513,the update rectangle for npapi plugins does not work on mac,normal
+449632,"some websites and files were wonky, i reported this last night",normal
+406350,"drawimage(), then rotate(), then drawimage() doesn't display nd drawimage()",normal
+27341,the select tag of a form causes incorrect layout,normal
+468806,"""reached end"" message causes scrollbar to disappear and requires the findbar to be restarted",minor
+103494,code of the webpage being displayed on the webpage,normal
+379391,fails to open word documents,normal
+47754,selected text background is always white,major
+726408,api for pop-up existing tab with chromeless,normal
+540606,unexpected italics in message bodies,normal
+534368,"""assertion: continuations should have the same style context"" with -moz-column, abs pos",normal
+305174,confirm match should list the bug number and description,normal
+576534,directd will not work after updating to the  nightly,major
+431436,treehydra: replace wrapper functions with names in libs,normal
+304090,crash going back on thottbot.com,critical
+151351,"overflow=""hidden"" will be visible on nd+ childern",major
+213836,crash when trying to install xpi extension,critical
+74965,clearing the address of the ssl proxy breaks https,normal
+247467,open location dialog does not regcognize bookmark keywords nor quicksearch,minor
+557863,filemgr::filemgr leaks st,minor
+376082,thunderbird trunk nightly crashes on hitting reply or composing a new email message,critical
+7348,ugly with themes!,normal
+413414,"minefield crashes when trying to view ""page setup""",critical
+69461,need the ability to set default css-style parameters,normal
+237027,inconsistent new tab shortcuts,normal
+696354,"html video, redirects and currentsrc",normal
+189874,browser crashed when i closed it,critical
+378593,"javascript not handling correctly the lastchild selector, it selects a white space, not an element of the dom",normal
+1840,need to add mac os . to the os list,normal
+68936,trees in anonymous content crash mozilla,normal
+299769,"alert pop-up for ""the document contains no data"" does not identify itself or the document.",minor
+497989,"""mark"" context submenu fails to appear",minor
+198867,some of nsstandardurl objects are leaked,normal
+245978,potential null pointer error in source file(xpcom/io/nsappfilelocationprovider.cpp),normal
+251902,wrong handling of image maps in xhtml,normal
+799835,[request] answer to an email message in chat,normal
+355011,firefox crashes constantly in typo .. backend,critical
+535501,apparent parent-side crash in test_pluginstream_asfile.html,normal
+311090,patch for bug  was mildly bogus,normal
+187653,clicking on binary file crashes the browser instead of starting download,major
+690640,add-on manager should not open in background when browser.tabs.loadbookmarksinbackground=true,normal
+131789,page never stops downloading,normal
+259862,firefox .pr popup blocks email composing,normal
+667878,error in internet connection,normal
+163769,bugzilla quips contain offensive content,normal
+200284,crash if i close the mail window while checking for new pop mail ,normal
+42837,charset detector should be disabled when user begin to edit,normal
+324002,horizontal scrollbar is rendered unnecessarily,normal
+105182,mozilla scrolls to the top on any unnamed anchor,normal
+245742,apparent memory corruption after successfully authenticating using ntlm,critical
+697413,usage of progress bar for visualizing imap quota is irritating,normal
+492713,remove location property protection (sdosecuritycheckinaddproperty).,normal
+418752,don't bother fetching forwards on a failed update,normal
+641327,ti: crash [@ js::mjit::recompiler::recompile],critical
+474748,optimize video frame rendering,normal
+279637,ennoying autocompletion of to field when not hitting '@',normal
+362818,onscroll event on a div tag returns differing values in event target property between .x and .,normal
+181903,docshell ignores nsiwebnavigation::loaduri headers arg,normal
+10711,tables are crashing (tree pulled at : p.m. //),normal
+263135,crash when opening mail,critical
+129469,getcomputedstyle() needs to do the right thing for numbers,normal
+502241,tm: icc warnings in jsopcode.cpp,normal
+726372,testplaintextserializer fails to link,normal
+736949,mozilla crashes abruptly,normal
+349856,user watching doesn't apply own email prefs,normal
+192924,save actual source code as data for open in excel as tab delimited format,normal
+758861,don't redefine stdin types in basictypes.h,normal
+148765,javascript console reports an error at mozilla startup,minor
+610595,right click search should open in a new window when tabbed browsing disabled,normal
+121217,buttons on a form in a frame with scrolling set to no vanish from the screen when you attempt to click on them,normal
+466317,"view source, reloads the page instead of using already downloaded data",normal
+134707,partially loaded images are not cached,normal
+595223,keep track of file:// url 'loadgroups',normal
+667203,load event fires multiple times for motion jpg files (mjpg),normal
+277496,crashed on startup,critical
+721068,update to latest graphite code from upstream,normal
+131673,background image displayed wrong,major
+446311,new window shows home page even when,normal
+739781,freeze when switching folders after inactivity,normal
+154882,preset text in textarea  which includes <input and &quote isn't displayed properly,major
+233595,bookmarks folders: impossible to create more than one during one opening of the bookmarks pane,minor
+521209,als-s access key twice in options/display,normal
+555931,need to install bugzilla on windows ,normal
+769988,firefox ... consumes huge amounts of cpu,normal
+175584,phoenix crashes when deleting yahoo mail.,normal
+722933,add -machine option for link.exe,normal
+407422,% cpu usage,normal
+549919,firefox does not react properly on change of dpi scaling in windows,major
+462162,incorrect highlighting of bookmarks in menu when pointing default icon of nd bookmark in lower level menu,minor
+291042,"a page with form, fill inputs and textarea, submit ... back, textarea data are missing",major
+378380,"ftp problem with ibm iseries (as, series i) systems",major
+126465,mathml not working with linux truetype,normal
+346618,"/ received task bar notification for upgrade, clicked on it, permanently crashed firefox",critical
+323528,consider making most of nsidocument #ifdef mozilla_internal_api,normal
+623989,instapaper read later bookmarklet not working,normal
+328332,dbd::pg . & bugzilla ..,normal
+584735,"<iframe> does not ""lock"" the mouse correctly on click-hold-move scenario",normal
+301905,huge horizontal scroll bar appears due to certain css combination,normal
+653936,"startupcache uses nszipitemptr without ensuring that the jar module is loaded, causes leaks",normal
+320970,cstatusbarctrl::seticon assert(::iswindow(m_hwnd /*  */)),normal
+460327,remove opportunistic caching,normal
+193243,none of the pages that should open on startup shows anything,minor
+500621,tm: leak [@ regexpnativecompiler::compile],normal
+584205,"""undo close tab"" on an app tab makes the tabs overlap",normal
+268385,"onblur=""window.close()"" causes crash when right clicking on personal bar bookmark",critical
+81570,can't drag frame border,normal
+629973,constant qi no_interface exception in popup.xml,normal
+410218,ff .bpre can't recogzine move network plugin,major
+654192,"""block images from ..."" missing",normal
+325238,seamonkey crashes when trying to print map from this website,normal
+131820,hitting return in an inline style doesn't advance caret to next line,normal
+604942,getting then message 'undef error - cannot determine local time zone' while searching and while submitting new bug,major
+374853,<shift+del> in msg (pre-)view should always cut/copy selected text and not delete message (legacy key bindings),normal
+683696,transitionend event does not fire on background tab,normal
+754713,"ionmonkey: assertion failure: [infer failure] missing type pushed : void, at js/src/jsinfer.cpp:",major
+237104,firfox version string reads @..@,normal
+46259,changing background color greys out all the buttons,normal
+803628,figure out why tests for bug  are failing,normal
+368436,switching profiles will not save to remote profile storage server first,normal
+468882,new bookmark folder dialog box hangs.,critical
+82024,xhtml style element does not work in xul?,normal
+472494,[rfe] thunderbird .x/.x urgently needs a fhs-compliant place to store addressbooks,major
+777057,mobileconnection: expose whether or not the radio is searching,normal
+283857,repeatable crash with bookmark search,critical
+150119,reload or refresh causes scroll,normal
+303503,make compositedatasourceimpl::getallresources ns_notyetimplemented message meaningful,normal
+762183,"""assertion: bad arg, numcharstodelete.  not enough characters in node"" with forwarddelete",normal
+453617,right-click on windowless plugins shows firefox context menu,major
+539002,mochitest-browser-chrome: browser_.js | timed out,normal
+792812,fill in sessionconstants.h,normal
+622251,rong display of web page,normal
+556051,allow java script to close windows like explore with confirmation,normal
+423021,replace ok/cancel with meaningful commands,normal
+644206,attributes/test_text.html should be loaded as utf-,normal
+433432,crashes in [@ -[childview processpluginkeyevent:] ],critical
+239811,hovering with mouse works only for less than one second,normal
+258186,scrollwheel not usable in <div>s with overflow:auto,normal
+252255,"change default setting for proportional font-css problems, default link setting overwrites css style sheet",normal
+402240,[rtl] need a better way to control the statusbar direction,normal
+612141,better interface for js_deflatestringtobuffer,normal
+418476,file type ot added to file if no extension,normal
